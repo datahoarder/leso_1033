@@ -1,0 +1,637 @@
+﻿/* Used for links on main content */
+a.ContentLink
+{
+	text-decoration:  underline;
+}
+a.ContentLink:link
+{
+	text-decoration:  underline;
+}
+a.ContentLink:visited
+{
+	 text-decoration: underline;
+	 color:#990099;
+	
+}
+a.ContentLink:hover 
+{
+	text-decoration: underline;
+}
+
+/* Used for links on main content */
+.header_pub 
+{ 
+      padding-bottom:0px;
+      padding-right:0px; 
+      padding-left: 0px; 
+      text-align:right; 
+      white-space:nowrap;
+    
+      font-family:tahoma;  
+      font-size:8pt;  
+      color:black; 
+}
+.caption_pub
+{
+      font-size:8pt; 
+      font-family:verdana; 
+      color:black; 
+      padding-bottom:50px;
+}
+.pageContent_pub
+{ 
+      font-family:arial !important;  
+      font-size:10pt !important;  
+      color:black !important; 
+}
+.title_pub
+{
+	color: black;
+}
+
+/* Class to adjust image size */
+.resize2 {
+  height: 160px;
+  width: 240px;
+  overflow:hidden;
+}
+
+/* Styles for page body content */
+.MainContent
+{
+	font-size:12px;
+	line-height:normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color:#e2e9f1;
+	height:100%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 5px;
+} 
+
+h2
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+
+h3
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+}
+
+h4
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+}
+
+ul
+{
+  padding-left: 3em;
+  list-style-type: none;
+  list-style-position:inherit; 
+  margin-top: 5px;
+}
+
+ul.AlignedMargin
+{
+  padding-left: 0em;
+  list-style-type: none;
+  list-style-position:inherit; 
+  margin-top: 5px;
+}
+
+ul.numbered
+{
+  padding-left: 20px;
+  list-style-type:decimal;
+  list-style-position:inherit; 
+  margin-top: 5px;
+}
+
+ul.bullets
+{
+  padding-left: 15px;
+  list-style-type:disc;
+  list-style-position:inherit; 
+  margin-top: 5px;
+}
+
+ul.square
+{
+  padding-left: 25px;
+  list-style-type:square;
+  list-style-position:inherit; 
+  margin-top: 5px;
+}
+
+li.PaddingBottom
+{
+	padding-bottom:1em;
+}
+
+.FontMainContentWarning
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 12px; 
+	color: red;
+}
+
+div.MainContentSmall
+{
+	font-size: 10px; 
+	line-height: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+
+img
+{
+	border:0px;
+}
+
+
+/* Styles for Logline pages */
+.LoglinesMainPageContent 
+{
+	font-size: 12px;
+	line-height: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	margin-top:5px;
+	margin-left: 45px;
+	margin-right: 45px;
+} 
+
+.LoglinesTitle
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 24px;
+	color: #FFFFFF;
+	font-weight: bolder;
+}
+
+.LoglinesSubTitle
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 16pt; 
+	color: #FFFFFF;
+	font-weight: bolder;
+}
+
+.LoglinesStoryTitle
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 14pt; 
+	color: #000000;
+	font-weight: bolder;
+}
+
+.LoglinesStorySubTitle
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 8pt; 
+	color: #000000;
+	font-weight: bold;
+}
+
+.LoglinesSignature
+{
+	text-align:right;
+	font-style:italic;
+}
+
+.LoglinesCaption
+{
+	font-family: Arial, Helvetica, sans serif;
+	font-size: 8pt; 
+	color: #000000;		
+}
+
+/* For formating tables and content within tables */
+table.CustomTable
+{
+	border-right:solid gray thin;
+	border-bottom:solid gray thin;
+	border-top:solid #dad7c7 thin;
+	border-left:solid #dad7c7 thin;
+	border-collapse:collapse;
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:white;
+}
+
+td.CustomTable
+{
+	border-right:solid gray thin;
+	border-bottom:solid gray thin;
+	border-top:solid #dad7c7 thin;
+	border-left:solid #dad7c7 thin;
+}
+
+th.CustomTable
+{
+	background-color:#336699;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	border-right:solid gray thin;
+	border-bottom:solid gray thin;
+	border-top:solid #dad7c7 thin;
+	border-left:solid #dad7c7 thin;
+}
+
+/* Used for links on breadcrumbs */
+BreadCrumbsNav a
+{
+	color: #000000;
+	text-decoration: none;	
+}
+
+BreadCrumbsNav a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+BreadCrumbsNav a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+BreadCrumbsNav a:hover 
+{
+	color: #000000;
+	text-decoration: underline;
+}
+
+
+/*-------------------------- Styles taken from master page --------------------------------------------*/
+.dla_body
+{
+	background-color:#000000;
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+
+.dla_webpartbody
+{
+	background-color:#ffffff;
+	width:100%;
+}
+
+.dla_version
+{
+	margin-left:130px;
+	font-size:10px;
+	color:#ffffff;
+}
+
+.dla_like
+{
+		
+}
+
+.BlueBoxInside2
+{
+	font-size:12px;
+	color:#000000;
+	margin-right:10px;
+}
+
+/* end web part changes */
+
+/* close space around top tabs */
+#onetIdTopNavBarContainer
+{
+padding-left:0;
+padding-right:0;
+}
+
+/* hide advanced search and scopes */
+.ms-sblink, .ms-sbscopes
+{
+display:none;
+}
+
+/* add space after the search icon  */
+.ms-sbLastcell{
+ width: 5px;
+}
+/* size search box to fill space */
+.ms-sbcell
+{
+width:100%;
+}
+/* set color behind top tabs -- moved to master page so it doesn't affect system pages
+.ms-bannerframe
+{
+				
+	background-color:#336797;
+}*/
+/* custom styles */
+.CurrentDate
+{
+	position:relative;
+	left:-10px;
+	width:180px;		
+}
+.search
+{
+    text-align:right;
+	position:relative;
+	left:-4px;
+}
+
+.ms-WPHeader
+{
+	background-color:#336797;
+	height:25px;
+	vertical-align:middle;
+	font-weight:normal;
+}
+
+
+.ms-WPTitle
+{
+	color:#ffffff;
+                     font-size:12px;
+                     font-weight:bolder;
+}
+
+.ms-WPTitle a:link, .ms-WPTitle a:visited
+{
+	color:#FFFFFF;
+                     font-weight:bolder;
+}
+
+.dla_topnav
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height: 18px;
+	color:#FFFFFF;
+	background-color: #336797;	
+	padding-left:5px;
+	padding-right:5px;
+    border-top: 2px solid #668CB3 ;
+    border-right: 2px solid #364C63 ;
+    border-bottom: 2px solid #364C63 ;
+    border-left: 2px solid #668CB3 ;
+}
+ 
+.dla_topnav a:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height: 18px;
+	color:#FFCC00;
+	background-color: #336797;
+	padding-left:5px;
+	padding-right:5px;
+    border-top: 2px solid #668CB3 ;
+    border-right: 2px solid #364C63 ;
+    border-bottom: 2px solid #364C63 ;
+    border-left: 2px solid #668CB3 ;
+}
+
+.dla_topNavFlyOutsContainer
+{
+border:solid 1px #336797;
+}
+
+.dla_topNavFlyOuts{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height: 18px;
+	color:#FFFFFF;
+	background-color: #4080BE !important;	
+	padding-left:5px;
+	padding-right:5px;
+    border-top: 2px solid #668CB3 ;
+    border-right: 2px solid #364C63 ;
+    border-bottom: 2px solid #364C63 ;
+    border-left: 2px solid #668CB3 ;
+	display:block;
+}
+
+.dla_topNavFlyOutsHover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height: 18px;
+	color:#FFCC00;
+	background-color: #336797 !important;	
+	padding-left:5px;
+	padding-right:5px;
+    border-top: 2px solid #668CB3 ;
+    border-right: 2px solid #364C63 ;
+    border-bottom: 2px solid #364C63 ;
+    border-left: 2px solid #668CB3 ;
+}
+
+
+.dla_webpartbody
+{
+	background-color:#ffffff;
+	width:100%;
+}
+
+/* custom styles */
+/* hide the page-level breadcrumbs */
+.breadcrumb
+{
+/*display:none;*/
+}
+
+.footer 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color:  #336797;
+	text-align:center;
+}
+
+.footer a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color:  #336797;
+	text-align:center;
+}
+.footer a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#FFCC00;
+	background-color:  #336797;
+	text-align:center;
+
+}
+.CurrentDate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #CCCCCC;
+	text-indent: 10px;
+}
+a.skip
+{
+    left: -1000em;
+    width: 20em;
+    position: absolute;
+}
+
+.tbltoptabs
+{
+
+
+}
+/* end custom styles */
+
+/* TNT styles */
+.TNTnav 
+{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color: #FFFFFF;
+	text-align: center;
+    height:25px;
+    width:180px;
+    border-top:2px solid #668cb3;
+    border-right:2px solid #668cb3;
+    border-bottom:2px solid #668cb3;
+    border-left:2px solid #668cb3;
+    height:25px;
+
+}
+.TNTnav a:active{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color: #FFFFFF;
+	text-align: center;
+    height:25px;
+    width:180px;
+    border-top:2px solid #668cb3;
+    border-right:2px solid #668cb3;
+    border-bottom:2px solid #668cb3;
+    border-left:2px solid #668cb3;
+    height:25px;
+
+}
+.TNTnav a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color:#FFCC00;
+	text-align: center;
+    height:25px;
+    width:180px;
+    border-top:2px solid #668cb3;
+    border-right:2px solid #668cb3;
+    border-bottom:2px solid #668cb3;
+    border-left:2px solid #668cb3;
+  }  
+  
+
+ .TNTnav2 {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	padding-left: 5px;
+	color: #FFFFFF;
+	background-color:#34689A;
+	text-align: left;
+    height:25px;
+    width:180px;
+    border: 2px;
+    border-color: #668CB3;
+    border-style: solid;
+    height:25px;
+}
+
+.TNTnav2 a:active{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	padding-left: 5px;
+	color: #FFFFFF;
+	background-color:#34689A;
+	text-align: left;
+    height:25px;
+    width:180px;
+    border: 2px;
+    border-color: #668CB3;
+    border-style: solid;
+    height:25px;
+
+}
+.TNTnav2 a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color:#FFCC00;
+	background-color:#34689A;
+	text-align: left;
+    height:25px;
+    width:180px;
+    border: 2px;
+    border-color: #668CB3;
+    border-style: solid;
+}
+
+ .TNTsubnav {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color: #FFFFFF;
+	background-color:#34689A;
+	text-align: left;
+    height:25px;
+	border-collapse:collapse;
+	padding-left:15px;
+	/*border-right: 2px #668CB3 solid;*/
+	width: 100%;
+
+}
+.TNTsubnav a:active{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color: #FFFFFF;
+	background-color:#34689A;
+	text-align: left;
+	border-collapse:collapse;
+	/*border-left: 2px #668CB3 solid;
+	border-right: 2px #668CB3 solid;*/
+	width: 100%;
+
+}
+.TNTsubnav a:hover{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+	color:#FFCC00;
+	text-align: left;
+    height:25px;
+	border-collapse:collapse;
+	width: 100%;
+}
+/* end TNT styles */
+h1 {
+				font-size:0pt;
+}
+
+
+
+
+

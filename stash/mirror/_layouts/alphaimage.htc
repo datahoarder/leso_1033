@@ -1,0 +1,12 @@
+<public:component>
+<public:attach />
+<script>
+if (browseris.ie55up && browseris.win32) 
+{
+ var blankImage = "/_layouts/images/blank.gif";
+ if (!(element.src==blankImage)) {
+       element.src = blankImage;
+ }
+}
+</script>
+</public:component>

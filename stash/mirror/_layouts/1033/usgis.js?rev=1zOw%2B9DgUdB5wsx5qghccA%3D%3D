@@ -1,0 +1,3 @@
+﻿_spBodyOnLoadFunctionNames.push("OnLoad_MyUSGIS");
+function OnLoad_MyUSGIS() {
+}

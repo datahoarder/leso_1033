@@ -1,0 +1,66 @@
+name: templates
+source:
+  homepage: http://earthquake.usgs.gov/earthquakes/search/
+  info: http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+
+db:
+  primary_key:
+    - id
+  indexes:
+    - time
+    - mag
+
+columns:
+  id:
+    type: String
+    description: |
+      A (generally) two-character network identifier with a (generally) eight-character network-assigned code. A unique identifier for the event. This is the current preferred id for the event, and may change over time. See the "ids" GeoJSON format property.
+    examples:
+      - usp000jnek
+      - ak11620427
+
+  time:
+    type: DateTime
+    description: Time when the event occurred to the millisecond. Does not include leap seconds.
+    time_format: "%Y-%m-%dT%H:%M:%S.%fZ"
+    nullable: false
+
+  latitude:
+    type: Float
+    length: [8,5]
+
+  magType:
+    type: String
+    description: The method or algorithm used to calculate the preferred magnitude for the event.
+    examples:
+      - Md
+      - Ml
+      - Ms
+      - Mw
+      - Me
+      - Mi
+      - Mb
+      - MLg
+  nst:
+    type: Integer
+    length: 5
+    description: "The total number of Number of seismic stations which reported P- and S-arrival times for this earthquake."
+
+
+  rms:
+    type: Float
+    length: [6, 2]
+    description: |
+      The root-mean-square (RMS) travel time residual, in sec, using all weights. This parameter provides a measure of the fit of the observed arrival times to the predicted arrival times for this location. Smaller numbers reflect a better fit of the data. The value is dependent on the accuracy of the velocity model used to compute the earthquake location, the quality weights assigned to the arrival time data, and the procedure used to locate the earthquake.
+  net:
+    type: String
+    length: 5
+    description: |
+      The ID of a data contributor. Identifies the network considered to be the preferred source of information for this event.
+    examples: [ak, at, ci, hv, ld, mb, nc, nm, nn, pr, pt, se, us, uu, uw]
+
+  updated:
+    type: DateTime
+    description: Time when the event occurred to the millisecond. Does not include leap seconds.
+    time_format: "%Y-%m-%dT%H:%M:%S.%fZ"
+    nullable: false

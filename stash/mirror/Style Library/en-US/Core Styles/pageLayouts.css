@@ -1,0 +1,110 @@
+/* _lcid="1033" _version="12.0.4518"
+    _LocalBinding */
+.floatLeft
+{
+	float:left;
+    margin-right:0px; 
+    margin-left: 0px; 
+    margin-top:5px;
+}
+.floatRight
+{
+	float:right;
+    min-width:100px;
+    margin-left:10px; 
+    margin-right: 0px; 
+    margin-top:5px;
+}
+.welcomeImage 
+{
+	float:left;
+}
+.welcomeImage img
+{
+    margin-right:10px; 
+    margin-left: 0px; 
+    margin-top:5px;
+   	border:solid 1px #CCCCCC; 
+}
+.caption 
+{
+      font-size:8pt; 
+      font-family:verdana; 
+      color:#666666; 
+      padding-bottom:2px;
+      margin-top:-3px;
+}
+.caption p
+{ 
+      padding-top: 2px; 
+      margin-bottom: 2px; 
+}
+.header 
+{ 
+      padding-bottom:0px;
+      padding-right:0px; 
+      padding-left: 0px; 
+      text-align:right; 
+      white-space:nowrap;
+      border-bottom:solid 1px #cccccc;
+      font-family:tahoma;  
+      font-size:8pt;  
+      color:#666666; 
+}
+.dateLine 
+{
+      font-weight:bold;  
+      float:left;
+      white-space:nowrap;
+}
+.pageContent
+{ 
+      font-family:tahoma;  
+      font-size:9pt;  
+      color:#666666; 
+}
+.pageContent UL, .pageContent OL
+{ 
+    clear:both;
+}
+.splashLinkArea
+{
+    *height:100px;
+    min-height:100px;
+	border:solid 1px #CCCCCC; 	
+}
+.imageSplash
+{
+    text-align:center;
+    display:block;
+    width:100%;
+}
+.imageSplash img
+{
+	border:solid 1px #CCCCCC; 	
+}
+.splashLinkFrame
+{
+    width:100%;
+    display:block;
+    clear:both;
+    min-height:100px;
+    *height:100px;
+}
+.floatingRelatedLinks
+{
+	border:solid 1px #CCCCCC;
+    margin-left:10px; 
+    margin-right: 0px; 
+    margin-top:5px;
+	float:right;
+	min-width:150px;
+	*width:150px;
+	display:inline;
+}
+.removeMargins
+{
+	margin-top:-11px;
+	margin-left:-11px;
+	margin-right:-10px;
+}

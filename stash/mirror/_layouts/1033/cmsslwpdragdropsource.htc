@@ -1,0 +1,28 @@
+<PUBLIC:COMPONENT lightWeight="true">
+<PUBLIC:ATTACH EVENT="onmousemove" ONEVENT="sourceMouseMove()" />
+<PUBLIC:ATTACH EVENT="onreadystatechange" ONEVENT="documentReady()" FOR="document" />
+<SCRIPT type="text/javascript" LANGUAGE="JScript">
+function documentReady()
+{ 
+    if (element.document.readyState=="complete" && slwp_bodyHTCRegistered== false)
+    {
+        slwp_bodyHTCRegistered = true;
+        initializeDragDrop();
+        element.document.body.addBehavior("/_layouts/1033/cmsslwpdragdropbody.htc");
+    }
+}
+function sourceMouseMove()
+{
+    if (slwp_enabled)
+    {
+        slwp_dragSourceElement = getSourceElem(element);
+        highlightDragSource(slwp_dragSourceElement);
+        element.style.cursor = "move";
+    }
+    else
+    {
+        element.style.cursor = "wait";
+    }
+}
+</SCRIPT>
+</PUBLIC:COMPONENT>
