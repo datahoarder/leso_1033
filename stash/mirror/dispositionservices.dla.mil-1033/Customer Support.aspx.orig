@@ -1,0 +1,915 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html id="ctl00_Html1" lang="en" __expr-val-dir="ltr" dir="ltr">
+	<link rel="shortcut icon" href="/PublishingImages/favicon.ico" />
+	<head id="ctl00_Head1"><meta name="google-site-verification" content="tQieTPnntsb8LH79h1glAoo4EXbgvHV3zj5oEGUeKI0" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><title>
+	
+	
+
+</title>
+		
+		<!--Metadata for use by Facebook-->
+		<meta property="”og:type”" content="government" /><meta property="”og:site_name”" content="Defense Logistics Agency" /><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/Band.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dla.publicportal.style_v01.css"/>
+
+		
+		<!--Styles used for positioning, font and spacing definitions-->
+		<script src="/_layouts/1033/init.js?rev=SKi7C%2FTrsh1U%2FCnIwkB9Ag%3D%3D"></script>
+<script src="/_layouts/1033/usgis.js?rev=1zOw%2B9DgUdB5wsx5qghccA%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+
+		
+		<!--Placeholder for additional overrides-->
+		
+		
+		<!--[if lt IE 7]>
+			<style type="text/css">
+				.dla_featureditem
+				{
+					display:none;
+				}
+				/*  .style1 {
+				vertical-align: bottom;
+				display: none;
+				text-align: right;
+				}*/
+			.style1 {
+				margin-left: 2px;
+}
+			</style>
+		<![endif]--> 
+		
+	</head>
+
+	<body class="dla_body" onload="javascript:_spBodyOnLoadWrapper();">
+		<a href="#MainPageContent" class="skip">
+			Skip Navigation
+		</a>
+		
+		<form name="aspnetForm" method="post" action="Customer Support.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x0C7427A86A2E182D12F4D60A20893114B78439AD39B3C461D0B6AC92C0CB528E79D18CD7060698A1B4708BE853BC399690EDA2389D2883F67A2C14FB8DB06E9C,13 Aug 2015 00:02:38 -0000" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgIFD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYMAgUPZBYCAgEPPCsADQIADxYGHgtfIURhdGFCb3VuZGceFFN0YXRpY1BvcE91dEltYWdlVXJsBSQvX2xheW91dHMvaW1hZ2VzL2xhcmdlYXJyb3dyaWdodC5naWYeFUR5bmFtaWNQb3BPdXRJbWFnZVVybAUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmZAwUKwAEBQswOjAsMDoxLDA6MhQrAAIWEB4EVGV4dAUNQ3VzdG9tZXIgSGVscB4FVmFsdWUFDUN1c3RvbWVyIEhlbHAeC05hdmlnYXRlVXJsBQQvY3JtHgdFbmFibGVkZx4KU2VsZWN0YWJsZWceCERhdGFQYXRoBQQvY3JtHglEYXRhQm91bmRnHghTZWxlY3RlZGdkFCsAAhYOHwQFGUN1c3RvbWVyIFNlcnZpY2UgVHJhaW5pbmcfBQUZQ3VzdG9tZXIgU2VydmljZSBUcmFpbmluZx8GBScvY3JtL1BhZ2VzL0N1c3RvbWVyU2VydmljZVRyYWluaW5nLmFzcHgfB2cfCGcfCQUnL2NybS9QYWdlcy9DdXN0b21lclNlcnZpY2VUcmFpbmluZy5hc3B4HwpnZBQrAAIWDh8EBR1NYWpvciBDb21tYW5kIFJlcHJlc2VudGF0aXZlcx8FBR1NYWpvciBDb21tYW5kIFJlcHJlc2VudGF0aXZlcx8GBRYvY3JtL1BhZ2VzL21hamNvbS5hc3B4HwdnHwhnHwkFFi9jcm0vUGFnZXMvbWFqY29tLmFzcHgfCmdkZAIND2QWAgIBD2QWAmYPZBYCAgEPD2QWAh4FY2xhc3MFGG1zLXNidGFibGUgbXMtc2J0YWJsZS1leGQCEw9kFgICBg9kFhICAQ8WAh8ACysEAWQCAw9kFgJmDw8WAh4HVmlzaWJsZWhkZAIFD2QWAmYPDxYCHw1oZGQCBw9kFgJmDw8WAh8NaGRkAgkPZBYCZg8PFgIfDWhkZAILD2QWAmYPDxYCHw1oZGQCDQ9kFgJmDw8WAh8NaGRkAg8PZBYCZg8PFgIfDWhkZAIRD2QWAmYPDxYCHw1oZGQCFQ9kFgICAQ8WAh8NaBYCZg9kFgQCAg9kFgYCAQ8WAh8NaGQCAw8WAh8NaGQCBQ8WAh8NaGQCAw8PFgIeCUFjY2Vzc0tleQUBL2RkAhsPZBYCAgIPDxYCHw1nFgIeBXN0eWxlBQ5kaXNwbGF5OmJsb2NrO2QCHQ9kFgICAw9kFgICAQ8PFgIfDWdkFgQCAQ8PFgIfDWhkFhwCAQ8PFgIfDWhkZAIDDxYCHw1oZAIFDw8WAh8NaGRkAgcPFgIfDWhkAgkPDxYCHw1oZGQCCw8PFgIfDWhkZAINDw8WAh8NaGRkAg8PDxYEHwdoHw1oZGQCEQ8PFgIfDWhkZAITDw8WBB8HaB8NaGRkAhUPDxYCHw1oZGQCFw8WAh8NaGQCGQ8WAh8NaGQCGw8PFgIfDWdkZAIDDw8WAh8NZ2QWBgIBDw8WAh8NZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHw1nZGQCBQ8PFgIfDWdkZBgCBURjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJFBsYWNlSG9sZGVySG9yaXpvbnRhbE5hdiRUb3BOYXZpZ2F0aW9uTWVudQ8PZAUURGlzcG9zaXRpb24gU2VydmljZXNkBStjdGwwMCRQbGFjZUhvbGRlckxlZnROYXZCYXIkUXVpY2tMYXVuY2hNZW51Dw9kBQ1DdXN0b21lciBIZWxwZFR1VeT7v6UzjeeYhCqEslYXbj5P" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=IC62zvUkjUFg5UOxxNTnVoHujZ-qq2knEIj3TA6sWMvO6-ONAptYrFEBHJchdCBFpiU4DQdcwp4q4aysdAv0iFEAo641&amp;t=635294915132453548" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKqueX3AwLQn5bCCwKotqKDBgLchIGUAgLchIGUAgKwsq+DC6/6rE67aw0ZOuCUthZoAi9w3EPf" />
+			
+
+			<table style="width: 776px;" bgcolor="#000000" cellspacing="0" cellpadding="0" align="center">
+				<tr>
+					<td id="directors_guidance" colspan="2">
+						<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody" OnlyForMePart="true" allowDelete="false" style="" ><style type="text/css">
+.dla_featureditem
+{
+    position:relative;
+    left:817px;
+    top:9px;
+    height:1px;
+    width:165px;
+}
+</style>
+
+<script type="text/javascript">
+<!--
+function leavesite() {
+	var answer = confirm("You are about to leave the www.dla.mil website. Would you like to continue?")
+	if (answer){
+		window.location = "http://www.ndia.org/meetings/1780";
+	}
+	else{
+	}
+}
+//-->
+</script>
+
+<div class="dla_featureditem" id="directors_guidance" style="left:817px;top:0px">
+<a href="http://www.dla.mil/Documents/Strategic%20Plan%202015%20web.pdf" target="_blank"><img src="/PublishingImages/dlatoday02BannerButtonStratPlan.png" alt="DLA Strategic Plan" border="0" width="170" height="98" /></a>
+</div>
+
+
+<script type="text/javascript">
+	protected override bool AllowAnonymousAccess
+	{	
+		get{
+			return true;
+		}
+	}
+
+</script></div></td>
+	</tr>
+</table>
+					</td>
+				</tr>
+				<tr valign="top" bgcolor="#e2e9f1">
+					<td style="width: 220px" valign="top" bgcolor="#336797" align="center">
+						<h1 title="Defense Logistics Agency - Home Page">
+							<div style="width: 100%; padding:0; text-align:center;" id="Left_Nav">
+								<div>
+									<a href="http://www.dla.mil" class="ContentLink" target="_blank">
+										<img id="dla_logo" width="220px" height="150px" src="/PublishingImages/logo_new.jpg" alt="Defense Logistic Agency Home"  class="dla_logo" border="0">
+									</a>
+								</div>
+								<div style="text-align:center;background-color:#336797">
+									<div style="width: 220px; padding=0; text-align:center; vertical-align:middle; background-color:#336797" >
+										<div style="text-align:center; width:200px;" id="dla_leftbarnav">
+											
+												<a href="#zz1_QuickLaunchMenu_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=Vwu-UmghwHoW_cNpmm4tieY3hpkLdnivbFcJkt37dNtqu3xr_Opz78xIJbHMJBKnEDD4tyQ5CZ5HicSWM2aBV7TnlGU1&amp;t=635294915132453548" width="0" height="0" border="0" /></a><table id="zz1_QuickLaunchMenu" cellpadding="0" cellspacing="0" border="0" width="180">
+	<tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun0">
+		<td><table class="dla_topnav dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav dla_topnav" href="/crm" accesskey="3">Customer Help</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun1">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/crm/Pages/CustomerServiceTraining.aspx">Customer Service Training</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun2">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/crm/Pages/majcom.aspx">Major Command Representatives</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table><a id="zz1_QuickLaunchMenu_SkipLink"></a>
+												
+												
+											
+											
+										</div>
+																						
+										
+											<!-- Style for space between image rows -->
+											
+											<div id="_invisibleIfEmpty1" name="_invisibleIfEmpty1" style="vertical-align:top; height:100%; padding-top:5px;">												 
+												<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" width="100%" class="ms-WPBody" OnlyForMePart="true" allowDelete="false" style="" ><style type="text/css">
+#dla_navspacer
+{
+	height:8px;
+	width:180px;
+}
+.dla_leftnav
+{
+	background-color:#336797;
+	width:100%;
+	text-align:center;
+	padding-bottom:10px;
+}
+.center {
+	text-align: center;
+}
+</style>
+
+<table class="dla_leftnav">
+	
+		<tr>
+		
+			<td>
+				<a href="/Documents/CurrentWorld.pdf">	
+ 					<img alt="World" id="World" src="/PublishingImages/Homepage/temp/world.png" width="180"  border="0" 
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/world2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/world.png'"/>
+
+				</a>
+			</td>
+		</tr> 
+
+
+
+
+		<tr>
+		
+			<td>
+				<a href="http://www.dla.mil/smallbusiness/Pages/default.aspx">	
+ 					<img alt="Link to Small Business" id="small_business" src="/PublishingImages/Homepage/temp/sbl.png" width="180"  border="0"
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/sbl2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/sbl.png'" />
+				</a>
+			</td>
+		</tr>
+
+
+		<tr>
+		
+			<td>
+				<a href="http://www.dla.mil/areas_focus.aspx">	
+ 					<img alt="Areas of focus" id="dla_areas_focus" src="/PublishingImages/Homepage/temp/DLA_FocusAreas.jpg" width="180" height="140" border="0" 
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/DLA_FocusAreas2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/DLA_FocusAreas.jpg'"/>
+				</a>
+			</td>
+		</tr> 
+	   
+
+ 		
+	
+</table>
+</div></td>
+	</tr>
+</table>
+											</div>
+										
+									</div>
+								</div>
+							</div>
+						</h1>
+						<h2 style="display:none;">
+							Hidden Header
+						</h2>
+					</td>
+					<td style="width: 776px" valign="top">
+						<div style="width: 100%; padding:0; border:0; background-color:#e2e9f1" id="pgtop">
+							<div style="background-color:#336799">
+								<div style="width: 776px; height: 98px; padding:0; border:0;" id="top_banner">
+																								
+										<!-- JAW, 07/13/10: TODO Change to style refs -->									
+										<img id="dla_banner" src="/PublishingImages/disposition_services_banner.jpg" width="776px" height="98px"alt="DLA Banner" border="0" />
+									
+								</div>							
+							</div>
+							<div style="background-color:#336799;" id="search_row_actual">
+							<table class="tbltoptabs" style="width: 100%; left: 0px; top: 0px;" cellspacing="0" cellpadding="0" border="0" id="search_row">
+								<tr>
+										<td class="CurrentDate"> <!-- JAW, 07/13/10: simplified date display -->
+											<script language="JavaScript" type="text/javascript">
+												document.write(new Date().toLocaleDateString());                            
+											</script>
+										</td>
+										<td align="left">
+											
+										</td>
+										<td class="search">	
+											
+												<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" OnlyForMePart="true" allowDelete="false" style="" ><div id="SRSB"> <div>
+			<input name="ctl00$PlaceHolderSearchArea$ctl00$ctl00" type="hidden" id="ctl00_PlaceHolderSearchArea_ctl00_ctl00" value="http://www.dispositionservices.dla.mil/crm" /><table class="ms-sbtable ms-sbtable-ex" border="0">
+				<tr class="ms-sbrow">
+					<td class="ms-sbscopes ms-sbcell"><select name="ctl00$PlaceHolderSearchArea$ctl00$SBScopesDDL" id="ctl00_PlaceHolderSearchArea_ctl00_SBScopesDDL" title="Search Scope" class="ms-sbscopes">
+						<option value="This Site">This Site: Customer Support</option>
+						<option selected="selected" value="">Disp</option>
+						<option value="">All Sites</option>
+
+					</select></td><td class="ms-sbcell"><input name="ctl00$PlaceHolderSearchArea$ctl00$S3031AEBA_InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords" accesskey="S" title="Enter search words" class="ms-sbplain" alt="Enter search words" onkeypress="javascript:return S3031AEBA_OSBEK(event);" style="width:170px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_go" title="Go Search" href="javascript:S3031AEBA_Submit()"><img title="Go Search" onmouseover="this.src='/_layouts/images/gosearch.gif'" onmouseout="this.src='/_layouts/images/gosearch.gif'" alt="Go Search" src="/_layouts/images/gosearch.gif" border="0" /></a></td><td class="ms-sbcell ms-sblink"><a id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_AdvSearchLink" title="Advanced Search" href="/SearchCenter/Pages/Advanced.aspx">Advanced Search</a></td><td class="ms-sbLastcell"></td>
+				</tr>
+			</table>
+		</div></div></div></td>
+	</tr>
+</table>
+											
+										</td>
+									</tr>
+								</table>
+							</div>
+							
+							<!-- JAW, 07/14/10: Global (top tabs) navigation begin -->
+							<div id="onetIdTopNavBarContainer" class="ms-bannerContainer">
+								
+									<div class="ms-bannerframe" style="background-color:#336797; border:0;padding:0;">
+										<div style="white-space:nowrap; vertical-align:middle;"/>
+										<div class=style1 ID="HBN100" style="width: 776px">
+											
+												<table id="zz2_TopNavigationMenu" class="ms-topNavContainer" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun0"><table class="dla_topnav dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td nowrap="nowrap"><a class="dla_topnav dla_topnav" href="/Pages/default.aspx" accesskey="1">Disposition Services</a></td>
+			</tr>
+		</table></td><td width="0"></td><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Welcome to Disposition Services" id="zz2_TopNavigationMenun1"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Pages/About_Disposition_Services.aspx">About Us</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Dispostion Services Careers subsite" id="zz2_TopNavigationMenun2"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Careers/Pages/default.aspx">Careers</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services Directory subsite" id="zz2_TopNavigationMenun3"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/POCList/Pages/default.aspx">Program POCs</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services Library subsite" id="zz2_TopNavigationMenun4"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Library/Pages/default.aspx">Library</a></td><td width="0"><img src="/_layouts/images/menudark.gif" alt="Expand Library" valign="middle" /></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services EFOIA-Privacy subsite" id="zz2_TopNavigationMenun5"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/EFOIA-Privacy/Pages/default.aspx">EFOIA-Privacy</a></td><td width="0"><img src="/_layouts/images/menudark.gif" alt="Expand EFOIA-Privacy" valign="middle" /></td>
+					</tr>
+				</table></td><td width="0"></td>
+			</tr>
+		</table><div id="zz2_TopNavigationMenun4Items" style="display:none;">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun6">
+					<td><table class="dla_topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td nowrap="nowrap" width="100%"><a class="dla_topNavFlyOuts" href="/Library/Pages/Point%2014.aspx">Point 14</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=HhlMdwwWGz7FN1ku6TI1uZssmMiqLBWeq5j2q1yfnSGZBFGaVTn2wIbEMUDg1bXBe1cG8SxYrAbVsWvXdg8D8GZ85xw1&amp;t=635294915132453548" alt="Scroll up" />
+			</div><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=MZ6UioI4EOo_IMC4AAe1dXLTJxx08XCb9nVuHKEnh2kI_e9i8q5x5sbxVLHZI--pX-krIkWMEoR7MUrtCUALvYbT4ro1&amp;t=635294915132453548" alt="Scroll down" />
+			</div>
+		</div><div id="zz2_TopNavigationMenun5Items" style="display:none;">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun7">
+					<td><table class="dla_topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td nowrap="nowrap" width="100%"><a class="dla_topNavFlyOuts" href="/EFOIA-Privacy/Pages/ereadingroom.aspx">DLA Disposition Services eReading Room</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=HhlMdwwWGz7FN1ku6TI1uZssmMiqLBWeq5j2q1yfnSGZBFGaVTn2wIbEMUDg1bXBe1cG8SxYrAbVsWvXdg8D8GZ85xw1&amp;t=635294915132453548" alt="Scroll up" />
+			</div><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=MZ6UioI4EOo_IMC4AAe1dXLTJxx08XCb9nVuHKEnh2kI_e9i8q5x5sbxVLHZI--pX-krIkWMEoR7MUrtCUALvYbT4ro1&amp;t=635294915132453548" alt="Scroll down" />
+			</div>
+		</div></td>
+	</tr>
+</table>
+												
+																									
+											
+										</div>
+									</div>
+								
+							</div>										
+							<!-- JAW, 07/14/10: Global navigation end -->
+							
+							<div id="breadcrumb_area" style="background-color:#e2e9f1;">
+									<!-- Breadcrumd begin -->
+									
+										<span id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath" class="breadcrumb"><a href="#ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=Vwu-UmghwHoW_cNpmm4tieY3hpkLdnivbFcJkt37dNtqu3xr_Opz78xIJbHMJBKnEDD4tyQ5CZ5HicSWM2aBV7TnlGU1&amp;t=635294915132453548" border="0" /></a><span class="ms-sitemapdirectional">
+												<a href="/Pages/default.aspx" id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_ctl00_dlaHome">DLA Home</a>
+											</span><span> &gt; </span><span class="breadcrumbCurrent">Customer Support</span><a id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"></a></span>
+									
+									<!-- Breadcrumb end--->								
+							</div>
+							<div class="style1" style="width:100%; background-color:#e2e9f1;" align="left">
+								<div id="ctl00_MSO_ContentDiv" class="mainContainer">
+									<div>
+										
+									</div>
+									<div class="pageTitle">
+										
+	
+
+									</div>													
+									<div class="mainContent" id="MainPageContent">
+										
+		<table cellpadding="4" cellspacing="0" border="0" width="100%">
+				<tr>
+				    <td valign="top" style="padding:0" colspan="2" width="100%">
+				        <div id="ctl00_PlaceHolderMain_PageContent__ControlWrapper_RichHtmlField" style="display:inline"><dl>
+<dt>
+<div align=center><img style="border-bottom:0px solid;border-left:0px solid;border-top:0px solid;border-right:0px solid" border=0 alt="Customer Services Banner" src="/crm/PublishingImages/Customer%20Service%20Images/cs%20banner.png"></div></dt></dl></div>
+				    </td>
+				</tr>
+				<tr>
+					<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" style="padding-top:10px"> 
+						 
+					</td>
+					<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top"  style="padding-top:10px" rowspan="2"> 
+						
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" style="padding:0">
+						<table cellpadding="4" cellspacing="0" border="0" width="100%" height="100%">
+							<tr>
+								<td width="100%" colspan="3" valign="top" style="padding:0">
+									<table cellpadding="4" cellspacing="0" width="100%" height="100%">
+										<tr >
+											<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top"> 
+											<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ10" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%" style="width:500px">
+			<tr>
+				<td valign="top"><div WebPartID="89690db8-d0c9-43f4-a1c0-dc5f19820bd8" HasPers="false" id="WebPartWPQ10" class="ms-WPBody" allowDelete="false" style="width:500px;overflow:auto;" ><DL>
+<DT><FONT size=3><STRONG></STRONG></FONT>&nbsp; <FONT size=3><STRONG>Welcome</STRONG> to the Customer Support page for Disposition Services. Our goal is to give our customers a working knowledge of how Disposition Services operates, answer questions they might have in a timely manner, and to provide them relevant training material.</FONT></DT>
+<DT><FONT size=3></FONT>&nbsp;</DT>
+<DT><FONT size=3>If you have any questions that&nbsp;are not covered on our website, please feel free to send us an <A title="" href="mailto:DLADispositionServicesWebcontent@dla.mil" target="">email</A>.</FONT></DT></DL></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ5" vAlign="top"><table TOPLEVEL border="1" cellpadding="0" cellspacing="0" width="100%" style="width:500px">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td title="Who do I call for help? - Use for formatted text, tables, and images." id="WebPartTitleWPQ5" width="100%"><h3 class="ms-standardheader ms-WPTitle">&nbsp;<span>Who do I call for help?</span><span id="WebPartCaptionWPQ5"></span></h3></td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="ms-WPBorder" valign="top"><div WebPartID="7192c277-4c32-4442-8580-ab6363482735" HasPers="false" id="WebPartWPQ5" class="ms-WPBody" allowMinimize="false" allowRemove="false" allowDelete="false" style="width:500px;overflow:auto;" ><DL>
+<DT>
+<DIV align=center><STRONG><A title="" href="mailto:dlaenterprisehelpdesk@dla.mil" target=""><STRONG><U><FONT size=4>Enterprise Help Desk (EHD)</FONT></U></STRONG></DIV></DT>
+<DT>
+<DIV align=center></A></STRONG><FONT size=4><SPAN><SPAN><STRONG>1-855-352-0001</STRONG></SPAN></SPAN>&nbsp;</FONT></DIV></DT></DL>
+<DIR>
+<LI><SPAN><FONT size=3>Inability to access site or links online</FONT></SPAN></LI>
+<LI><SPAN><FONT size=3>To help in reseting your AMPS password</FONT></SPAN></LI>
+<LI><SPAN><FONT size=3>Receiving Authentication failure messages</FONT></SPAN></LI>
+<LI><SPAN></SPAN><FONT size=3><SPAN>Inability to display a page</SPAN>&nbsp;</FONT></LI></DIR>
+<DL>
+<DT>
+<DIV align=center><SPAN><SPAN><STRONG><A title="" href="mailto:dlacontactcenter@dla.mil" target=""><FONT size=4><SPAN><STRONG>Customer Interaction</STRONG></SPAN><STRONG><SPAN>&nbsp;</SPAN><SPAN>Center&nbsp;(CIC)</SPAN></STRONG></FONT></A></STRONG></SPAN></SPAN><FONT size=4> </FONT></DIV></DT>
+<DT>
+<DIV align=center><FONT size=4><SPAN><STRONG><SPAN>1-877-352-2255</SPAN>&nbsp;</STRONG></SPAN>&nbsp;<SPAN>&nbsp;</SPAN></FONT></DIV></DT></DL>
+<DIR>
+<LI><SPAN><FONT size=3>Questions on what RTD and ETID roles you need </FONT></SPAN></LI>
+<LI><SPAN><FONT size=3>Questions on navigating through the ETID and RTD sites</FONT></SPAN></LI>
+<LI><SPAN><FONT size=3>Need status of requisitions and equipment turn-in requests</FONT></SPAN></LI>
+<LI><SPAN><FONT size=3>Questions on Disposition Services policies and procedures 
+<DIV align=center></FONT></SPAN></DIV></LI></DIR></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ6" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%" style="width:500px">
+			<tr>
+				<td valign="top"><div WebPartID="152e681c-7a77-4b79-86a5-d82814ab4817" HasPers="false" id="WebPartWPQ6" class="ms-WPBody" allowDelete="false" style="width:500px;overflow:auto;" ><DL>
+<DT>
+<DIV align=center><A title="" href="http://dispositionservices.hq.dla.mil/drmo/Pages/default.aspx" target=""><IMG style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; WIDTH: 500px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" border=0 alt="Find a Disposition Service Site" src="http://dispositionservices.hq.dla.mil/crm/PublishingImages/Customer%20Service%20Images/ds%20site.png"></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="http://ice.disa.mil/index.cfm?fa=card&amp;s=683&amp;sp=128709&amp;dep=%2aDoD" target=""><IMG style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; WIDTH: 500px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" border=0 src="http://dispositionservices.hq.dla.mil/PublishingImages/Homepage/ice%20banner.png"></A></DIV></DT></DL>
+<DIV align=center><FONT size=3>Want to tell us how we are doing? </FONT></DIV>
+<DIV align=center><FONT size=3>Click the banner above and complete a survey.</FONT></DIV></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table> </td>
+	                                        <td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top"> 
+											<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ11" vAlign="top"><table TOPLEVEL border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td title="DSD Regions - Use for formatted text, tables, and images." id="WebPartTitleWPQ11" width="100%"><h3 class="ms-standardheader ms-WPTitle">&nbsp;<span>DSD Regions</span><span id="WebPartCaptionWPQ11"></span></h3></td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="" valign="top"><div WebPartID="02c70c5a-41ea-4d58-88c4-4a131c8a87c0" HasPers="false" id="WebPartWPQ11" width="100%" class="ms-WPBody" allowDelete="false" style="" >
+
+<head>
+<meta http-equiv="Content-Language" content="en-us" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DSD Regions</title>
+<style type="text/css">
+.style1 {
+				border-width: 0px;
+
+}
+.HeadingText{ 
+color:#ffffff;
+font-family:"Times New Roman", Times, serif;
+font-size:12px;
+font-weight:bold;
+background-color:#ffffff;
+text-indent:6px;
+height:20px;
+padding-top:3px;
+				
+}
+</style>
+
+
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:ContentType msdt:dt="string">Document</mso:ContentType>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+<html>
+<body>
+
+
+
+<img src="/PublishingImages/Homepage/temp/DSDs.png" alt="Worldwide Supprt" usemap="#dsds">
+
+<map name="dsds">
+ <area shape="rect" coords="1,60,199,87" href="/crm/Pages/DSDCentral.aspx" alt="Southwest Asia">
+ <area shape="rect" coords="1,93,199,121" href="/crm/Pages/DSDEurope.aspx" alt="Europe and Africa">
+ <area shape="rect" coords="1,125,199,152" href="/crm/Pages/DSDPacific.aspx" alt="Pacific">
+
+ <area shape="rect" coords="1,216,199,244" href="/crm/Pages/DSDEast.aspx" alt="Eastern US">
+ <area shape="rect" coords="1,250,199,278" href="/crm/Pages/DSDMid-America.aspx" alt="Middle America">
+ <area shape="rect" coords="1,284,199,311" href="/crm/Pages/DSDWest.aspx" alt="Western US">
+
+ 
+
+
+
+
+</map>
+
+</body>
+</html>
+</div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ9" vAlign="top"><table TOPLEVEL border="1" cellpadding="0" cellspacing="0" width="100%" style="width:215px">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td title="Million Dollar Board - Use for formatted text, tables, and images." id="WebPartTitleWPQ9" width="100%"><h3 class="ms-standardheader ms-WPTitle">&nbsp;<span>Million Dollar Board</span><span id="WebPartCaptionWPQ9"></span></h3></td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="" valign="top"><div WebPartID="81898a3e-c4ef-4775-8ef9-b7ab3c980e0b" HasPers="false" id="WebPartWPQ9" class="ms-WPBody" allowDelete="false" style="width:215px;overflow:auto;" ><DL>
+<DT>
+<DIV align=center><STRONG><STRONG><A title="Million Dollar Board FY2014" href="/crm/Documents/mdb-fy2014.pdf" target=""><STRONG><STRONG>FY2014</STRONG></STRONG></A></STRONG></STRONG></DIV></DT>
+<DT>
+<DIV align=center><STRONG><STRONG><STRONG><A title="FY 2013" href="/crm/Documents/mdb-fy2013.pdf" target=""><STRONG>FY2013</STRONG></A></STRONG></DIV></DT></STRONG></STRONG>
+<DT>
+<DIV align=center><STRONG><STRONG>
+<DIV align=center></STRONG></STRONG><STRONG><STRONG><STRONG><A title="" href="/crm/Documents/mdb-fy2012.pdf" target=""><STRONG>FY2012</STRONG></DIV></DIV></DT>
+<DT>
+<DIV align=center>
+<DIV align=center>
+<DIV align=center></A></STRONG></STRONG></STRONG><STRONG><STRONG><STRONG><A title="" href="/crm/Documents/mdb-fy2011.pdf" target="">FY2011</STRONG></A></STRONG></DIV></DIV></DIV></DT></STRONG></STRONG></FONT>
+<DT>
+<DIV align=center><STRONG><STRONG>
+<DIV align=center>
+<DIV align=center>
+<DIV align=center><STRONG><A title="" href="/crm/Documents/mdb-fy2010.pdf" target="">
+<DIV align=center><STRONG>FY2010</STRONG></DIV></A></STRONG></DIV></DIV></DIV></STRONG></STRONG></DIV></DT></DL></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ7" vAlign="top"><table TOPLEVEL border="1" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td title="Customer Newsletters - Use for formatted text, tables, and images." id="WebPartTitleWPQ7" width="100%"><h3 class="ms-standardheader ms-WPTitle">&nbsp;<span>Customer Newsletters</span><span id="WebPartCaptionWPQ7"></span></h3></td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="" valign="top"><div WebPartID="19099729-f22b-491b-bb49-7922adf42171" HasPers="false" id="WebPartWPQ7" width="100%" class="ms-WPBody" allowDelete="false" style="" ><DL>
+<DT>
+<DIV align=center><B>FY2015</B></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Newsletters/DecemberNewsletter.pdf" target=""><SPAN>Issue 1</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center>&nbsp;</DIV></DT>
+<DT>
+<DIV align=center><B>FY2014</B></DIV></DT>
+<DT>
+<DIV align=center><U><SPAN><A title="" href="/crm/Documents/Newsletters/Newsletter%20Aug%202014(large).pdf" target=""><SPAN>Issue 1</SPAN></A></SPAN></U>&nbsp;</DIV></DT>
+<DT>
+<DIV align=center>&nbsp;</DIV></DT>
+<DT>
+<DIV align=center><B>FY2013</B></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Newsletter_V1I1.pdf" target=""><SPAN>Issue 1</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Newsletter_V1I2.pdf" target=""><SPAN>Issue 2</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Newsletter_V1I3.pdf" target=""><SPAN>Issue 3</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Newsletter_V1I4.pdf" target=""><SPAN>Issue 4</SPAN></A></DIV></DT></DL></div></td>
+			</tr>
+		</table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartWPQ8" vAlign="top"><table TOPLEVEL border="1" cellpadding="0" cellspacing="0" width="100%" style="width:215px">
+			<tr>
+				<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tr class="ms-WPHeader">
+						<td title="Survey Results - Use for formatted text, tables, and images." id="WebPartTitleWPQ8" width="100%"><h3 class="ms-standardheader ms-WPTitle">&nbsp;<span>Survey Results</span><span id="WebPartCaptionWPQ8"></span></h3></td>
+					</tr>
+				</table></td>
+			</tr><tr>
+				<td class="" valign="top"><div WebPartID="d8a0ba80-b4fc-46df-8299-881aa1d4438f" HasPers="false" id="WebPartWPQ8" class="ms-WPBody" allowDelete="false" style="width:215px;overflow:auto;" ><DT>
+<DIV align=center><STRONG>FY2015</STRONG></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/1stQuarterFY15.pptx" target="">1st Quarter</A> </DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/2ndQuarterFY15.pptx" target="">2nd Quarter</A> </DIV></DT>
+<DT>
+<DIV align=center>&nbsp;</DIV></DT>
+<DT>
+<DIV align=center><STRONG>FY2014</STRONG></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/1st%20Qtr%202014.pptx"><SPAN>1st Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/2nd%20Qtr%202014.pptx"><SPAN>2nd Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/3rd%20Qtr%202014%20FINAL.pptx"><SPAN>3rd Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/4thQtr.YrEnd%20FY14.pptx"><SPAN>4th Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><STRONG></STRONG>&nbsp;</DIV></DT>
+<DT>
+<DIV align=center><STRONG>FY2013</STRONG></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/FY13Q1Survey.ppt"><SPAN>1st Quarter </SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/FY13Q2Survey.ppt"><SPAN>2nd Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/FY13Q3Survey.ppt"><SPAN>3rd Quarter</SPAN></A></DIV></DT>
+<DT>
+<DIV align=center><A title="" href="/crm/Documents/Survey%20Results/4thCycleBriefv6.pptx"><SPAN>4th Quarter</SPAN></A></DIV></DT></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table> </td>
+										</tr>
+									</table>
+								</td>
+							</tr>							
+							<tr>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" height="100%"> 
+								 </td>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" height="100%"> 
+								 </td>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" height="100%"> 
+								 </td>
+							</tr>
+							<tr>
+								<td id="_invisibleIfEmpty" name="_invisibleIfEmpty" colspan="3" valign="top"> 
+								<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ4" vAlign="top"><table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="b2de3de0-d2b0-4dd4-a5c3-0956b01dc6d0" HasPers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody" allowDelete="false" style="" ><P align=center><IMG style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; WIDTH: 600px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" border=0 alt="DLA Footer" src="/crm/PublishingImages/Customer%20Service%20Images/dla%20footer.png"></P></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table> </td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<script language="javascript">if(typeof(MSOLayout_MakeInvisibleIfEmpty) == "function") {MSOLayout_MakeInvisibleIfEmpty();}</script>
+		</table>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+
+			<table style="width: 996px" cellspacing="0" cellpadding="0" align="center" id="page_footer">
+				<tr align="center">	
+					<td>
+						<div class="footer" style="width: 100%; padding:0; background-color:#336797;">
+							<span class="footer">
+								<a href="http://www.usa.gov">
+									USA.GOV
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="http://www.dla.mil/EEO/Pages/NoFear.aspx">
+									No Fear
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="http://www.dla.mil/Pages/privacysecurity.aspx">
+									Privacy/Security Statement
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_Section508Link" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">
+									Accessibility/Section 508
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_PlainWriting Link" href="http://www.dla.mil/plainwriting/Pages/default.aspx">	
+									Plain Writing
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_SiteIndexLink" href="/pages/site_index.aspx">
+									Site Index
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="mailto:DLADispositionServicesWebcontent@dla.mil?subject=DLA Disposition Services Web Site">
+									DLA&nbsp;Disp&nbsp;Svc&nbsp;Webmaster
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="mailto:DLADISPO@DLA.MIL">
+									DLA&nbsp;Disp&nbsp;Svc&nbsp;Public Affairs
+								</a>
+							</span>
+						</div>
+					</td>
+				</tr>
+				<tr id="captionRow">
+					<td colspan="2" class="authoringRegion">
+						<script type="text/javascript">
+				   		 // Hide "Sign In" link (and more) on INTERNET site
+				    		if (window.location.hostname == 'www.dispositionservices.dla.mil')
+				        		document.getElementById('captionRow').style.display = 'none';
+						</script>
+
+	
+						<span class="siteActionMenu">
+							
+<!-- Begin Action Menu Markup -->
+<table height=100% class="ms-siteaction" cellpadding=0 cellspacing=0>
+	<tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</table>
+<!-- End Action Menu Markup -->
+
+						</span>
+						
+						<div class="sharepointLogin">
+							<!--Authentication for Authors only-->
+							<table cellpadding="0" cellspacing="0" >
+								<tr>
+									<!-- MYSITE AND MYLINKS IS HIDDEN - JAW, 07/13/10: Unhid ------>
+									<td class="ms-globallinks">
+										
+									</td>
+									<td class="ms-globallinks">
+										
+<table><tr>
+<td class="ms-globallinks"></td>
+<td class="ms-globallinks"></td>
+</tr></table>
+
+									</td>
+									<!-- JAW, 07/13/10: end of unhide -->
+								
+									<td class="ms-globallinks">
+										
+<a id="ctl00_explitLogout_ExplicitLogin" href="http://www.dispositionservices.dla.mil/crm/_layouts/Authenticate.aspx?Source=%2Fcrm%2FPages%2FCustomer%20Support%2Easpx" style="display:block;">Sign In</a>
+
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div class="console">
+							
+<!-- Console -->
+<span id="ctl00_ctl17_publishingContext1"></span>
+
+<!-- Console -->
+
+						</div>
+					</td>		
+				</tr>
+			</table>
+								
+			<div style="padding:0;">
+				
+					
+				
+				
+				
+
+
+				
+				
+					<div class="leftNavSpacer"/>
+				
+			</div>
+
+			<div style="width: 996px; padding:0; text-align:left" />
+
+			
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var zz1_QuickLaunchMenu_Data = new Object();
+zz1_QuickLaunchMenu_Data.disappearAfter = 1000;
+zz1_QuickLaunchMenu_Data.horizontalOffset = 0;
+zz1_QuickLaunchMenu_Data.verticalOffset = 0;
+zz1_QuickLaunchMenu_Data.hoverClass = 'dla_topNavFlyOutsHover';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer>
+<!--
+function S3031AEBA_Submit() {GoSearch(null,'ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords',null,true,true,'ctl00_PlaceHolderSearchArea_ctl00_SBScopesDDL','ctl00_PlaceHolderSearchArea_ctl00_ctl00',null,null,'\u002fSearchCenter\u002fPages\u002fResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fcrm\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript" >
+// append an onload event handler
+var S3031AEBA__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+S3031AEBA__onload();        
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(S3031AEBA__onload);        
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function S3031AEBA_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S3031AEBA_Submit();
+}
+}
+// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var zz2_TopNavigationMenu_Data = new Object();
+zz2_TopNavigationMenu_Data.disappearAfter = 500;
+zz2_TopNavigationMenu_Data.horizontalOffset = 0;
+zz2_TopNavigationMenu_Data.verticalOffset = 0;
+zz2_TopNavigationMenu_Data.hoverClass = 'dla_topNavFlyOutsHover';
+//]]>
+</script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=mHKsOQ0iU3Q5jdm9OZNDdg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/search.js?rev=yqBjpvg%2Foi3KG5XVf%2FStmA%3D%3D"></script>
+</form>
+		<noscript>
+			Sorry, your browser does not support JavaScript!
+		</noscript>
+	</body>
+</html>
+
+
+
+<script type="text/javascript">
+	protected override bool AllowAnonymousAccess
+	{	
+		get{
+			return true;
+		}
+	}
+

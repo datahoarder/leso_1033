@@ -1,0 +1,1455 @@
+/* _lcid="1033" _version="12.0.6500"
+    _LocalBinding */
+.ms-errorinl {
+	FONT-SIZE: 8pt;   
+	COLOR: #ff0000; 
+	FONT-FAMILY: verdana, sans-serif; 
+}
+table.ms-unselectedhover, div.ms-unselectedhover {
+    background-image: url("/_layouts/images/portaltabselected.gif");
+}
+table.ms-selectednohover, div.ms-selectednohover {
+    background-image: url("/_layouts/images/menubuttonhover.gif");
+}
+table.ms-selectedhover, div.ms-selectedhover {
+    background-image: url("/_layouts/images/portaltabselected.gif");
+}
+.ms-ptabarea, .ms-sctabarea {
+	margin-top: 0px;
+}
+.ms-ptabcn, .ms-sctabcn {
+    background: url("/_layouts/images/PortalTabSelected.gif");
+    background-color: #CAE6F4;
+    border-top: solid 1px #83b0ec;
+    border-left: solid 1px #83b0ec;
+    border-right: solid 1px #83b0ec;
+    border-bottom: solid 1px #83b0ec; 
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 0.7em;  
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 10px; padding-right: 10px; color: #000000; vertical-align: middle;
+}
+.ms-ptabcnhover, .ms-sctabcnhover {
+    background: url("/_layouts/images/PortalTabHover.gif");
+    background-color: #fae8d4; 
+    border-top: solid 1px #9e8255; 
+    border-right: solid 1px #9e8255; 
+    border-left: solid 1px #9e8255;
+    border-bottom: solid 1px #6593cf; 
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 0.7em;  
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 10px; padding-right: 10px; color: #000000; vertical-align: middle;
+}
+.ms-ptabcn A:link, .ms-ptabcn A:visited,.ms-ptabcnhover A:link, .ms-ptabcnhover A:visited, .ms-sctabcn A:link, .ms-sctabcn A:visited,.ms-sctabcnhover A:link, .ms-sctabcnhover A:visited {
+    text-decoration: none; 
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;   
+    color: #000000; 
+    font-style: normal;
+}
+.ms-ptabcnhover A:hover, .ms-sctabcnhover A:hover {
+    text-decoration: none; 
+    font-family : Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+    color: #000000; 
+    font-style: normal;
+}
+.ms-ptabcf {
+    background: url("/_layouts/images/topnavdivider.gif");
+    background-repeat: repeat-y;
+    background-position : left; 
+    border-top: solid 1px #FFFFFF;
+    border-left: solid 1px #FFFFFF;
+    border-bottom: solid 1px #6593cf;
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    font-size: 0.7em;   
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 10px; padding-right: 11px; color: #7f7f7f; vertical-align: middle;
+}
+.ms-ptabcfhover, .ms-sctabcfhover {
+    background: url("/_layouts/images/PortalTabHover.gif");
+    background-repeat: repeat-x;
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    font-size: 0.7em;   
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 10px; padding-right: 10px; 
+    color: #7f7f7f; vertical-align: middle;
+    background-color: #fae8d4; 
+    border-top: solid 1px #9e8255; 
+    border-right: solid 1px #9e8255; 
+    border-left: solid 1px #9e8255;
+    border-bottom: solid 1px #6593cf;
+}
+.ms-ptabcf A:link, .ms-ptabcf A:visited, .ms-ptabcfhover A:link, .ms-ptabcfhover A:visited, .ms-sctabcf A:link, .ms-sctabcf A:visited, .ms-sctabcfhover A:link, .ms-sctabcfhover A:visited {
+    text-decoration: none; color: #7f7f7f; 
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    font-style: normal;
+}
+.ms-ptabcfhover A:hover, .ms-sctabcfhover A:hover {
+    text-decoration: none; 
+    font-family : Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+    color: #7f7f7f; 
+    font-style: normal;
+}
+.ms-ptabcfb {
+    background-color: #FFFFFF;
+}
+.ms-ptabnt, .ms-sctabnt {
+    padding-top: 3px;padding-left: 7px;padding-right: 0px;padding-bottom: 3px;
+}
+.ms-ptabnt A:link, .ms-ptabnt A:visited, .ms-sctabnt A:link, .ms-sctabnt A:visited {
+    text-decoration: none; 
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    color: #003399; 
+    font-style: normal; 
+    font-size: 8pt;  
+}
+.ms-ptabrx {
+    width: 100%; background-color: #FFFFFF; border-color: #83b0ec; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px;
+    font-family: Tahoma, Verdana, Arial, Helvetica;  
+    font-size: 0.7em;  
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 4px; padding-right: 4px; color: #7f7f7f; vertical-align: middle; text-align: left;
+}
+.ms-sctabcf {
+    border-bottom: solid 1px #97B4E9;
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;   
+    font-size: 0.7em;   
+    font-style: normal; 
+    font-weight: normal;
+    padding-bottom: 2px; padding-top: 2px; padding-left: 10px; padding-right: 11px; color: #7A7A7A; vertical-align: middle;
+}
+.ms-main .ms-sctabcf {
+    border-top: solid 1px #d6e8ff;
+    border-left: solid 1px #d6e8ff;
+    border-bottom: solid 1px #97B4E9;
+    border-right: none;
+    background: url("/_layouts/images/topnavdivider.gif");    
+    background-repeat: repeat-y;
+}
+.ms-sctabrx {
+	width: 100%; border-color: #97B4E9; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px;
+	font-family: Verdana, Arial, Helvetica;  
+	font-size: 0.7em;  
+	font-style: normal; font-weight: normal;
+	padding-bottom: 2px; padding-top: 2px; padding-left: 4px; padding-right: 4px; color: #7A7A7A; vertical-align: middle; text-align: left;
+}
+.ms-sctabcnb {
+    padding-bottom: 4px;
+}
+.ms-sctabcfb {
+    padding-bottom: 4px;
+}
+.ms-articlepic {
+    FLOAT: left; MARGIN-RIGHT: 8pt
+}
+.ms-articlepad {
+    MARGIN-BOTTOM: 5px
+}
+.ms-articletext {
+    FONT-SIZE: 8pt;  
+    COLOR: #8c8c8c; 
+    LINE-HEIGHT: 1.3em; 
+    FONT-FAMILY: tahoma; 
+}
+.ms-kpirow {
+    vertical-align: middle; 
+    height: 25px;
+}
+.ms-MenuUILabelFont{
+       FONT-SIZE: 66.67%;   
+       FONT-FAMILY: Verdana, sans-serif;  
+       text-decoration:none;
+}
+table.ms-applyfilters {
+ cursor:hand;
+}
+td.ms-applyfiltersbutton {
+ align:left;
+ border-style:solid;
+ border-width:1px;
+ border-bottom-width:0px
+ border-left-color:#add1ff;
+ border-right-color:#add1ff;
+ border-top-color:#c2dcff;
+ background-color:#9ac6ff;
+ cursor:hand;
+}
+table.ms-applyfiltersinactive {
+ text-align:center;
+ height:50px;
+ cursor:hand;
+ border-style:solid;
+ border-width:1px;
+ border-top-width:0px;
+ border-color:#8ebbf5;
+ padding-top:1px;
+ padding-bottom:1px;
+ padding-left:3px;
+ padding-right:3px;
+ background-image:url('/_layouts/images/ApplyFiltersInActive.jpg');
+ background-repeat:repeat-x;
+ font-family:Tahoma; 
+ font-size:7pt; 
+ font-weight:bold;
+ color:#3764a0
+}
+table.ms-applyfiltersactive {
+ text-align:center;
+ height:50px;
+ cursor:hand;
+ border-style:solid;
+ border-width:1px;
+ border-top-width:0px;
+ border-color:#8ebbf5;
+ padding-top:1px;
+ padding-bottom:1px;
+ padding-left:3px;
+ padding-right:3px;
+ background-image:url('/_layouts/images/ApplyFiltersActive.jpg');
+ background-repeat:repeat-x;
+ font-family:Tahoma; 
+ font-size:7pt; 
+ font-weight:bold;
+ color:#3764a0
+}
+table.ms-applyfiltershoverover {
+ text-align:center;
+ height:50px;
+ cursor:hand;
+ border-style:solid;
+ border-width:1px;
+ border-top-width:0px;
+ border-color:#8ebbf5;
+ padding-top:1px;
+ padding-bottom:1px;
+ padding-left:3px;
+ padding-right:3px;
+ background-image:url('/_layouts/images/ApplyFiltersHoverOver.jpg');
+ background-repeat:repeat-x;
+ font-family:Tahoma; 
+ font-size:7pt; 
+ font-weight:bold;
+ color:#3764a0
+}
+.ms-consolestatuscell {
+    background-image: url("/_layouts/images/pageTitleBKGD.gif");
+    background-repeat:repeat-x;
+    background-position: top left; 
+    background-color: #c2dcff;
+    text-align:center; 
+}
+.ms-toolbar img, .ms-toolbarItem img {
+    border:none !important;
+    margin: 2px 5px 5px 5px !important;
+    *margin: 3px 5px !important;
+    vertical-align:middle !important;
+    padding:0px !important;
+}
+.ms-toolbar a, .ms-toolbarItem a {
+    padding: 0 0 !important;
+    margin:0px !important;
+    text-align: left !important;
+    font-weight:normal !important;
+}
+.ms-assetpicker-text {
+    FONT-SIZE: 10px;   
+    FONT-FAMILY: Tahoma, Verdana;  
+}
+.ms-assetpicker-emptydatatext {
+    FONT-SIZE: 10px;   
+    FONT-FAMILY: Tahoma, Verdana;  
+    text-align: center;
+    MARGIN: 5px;
+    width: 100%;
+}
+.ms-assetpicker-titledescription {
+    FONT-SIZE: 10px;   
+    COLOR: #666666;
+    FONT-FAMILY: Tahoma, Verdana;  
+    BACKGROUND-COLOR: #ECECEC;
+}
+.ms-assetpicker-main {
+    BACKGROUND-COLOR: #ece9d8;
+}
+.ms-assetpicker-main th {
+    font-size: 8pt; 
+    font-family: Verdana, sans-serif; 
+    font-weight: normal; 
+    text-align: left; 
+    color: #000000;
+}
+.ms-assetpicker-main td, .ms-assetpicker-main {
+font-size:8pt; 
+}
+.ms-assetitem-unselected {
+    color: #00000;
+    BACKGROUND-COLOR: #FFFFFF;
+}
+.ms-assetitem-selected {
+    color: #00000;
+    BACKGROUND-COLOR: #ffe6a0;
+}
+.ms-assetitem-thumbnail-unselected {
+    BACKGROUND-COLOR: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    TEXT-ALIGN: center;
+    WIDTH: 155px;
+    padding: 0px;
+ }
+.ms-assetitem-thumbnail-selected {
+    BACKGROUND-COLOR: #ffe6a0;
+    border: 1px solid #d2b47a;
+    TEXT-ALIGN: center;
+    WIDTH: 155px;
+    padding: 0px;
+}
+.ms-assetitem-thumbnail-imagecell {
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    WIDTH: 150px;
+    HEIGHT: 150px;
+    padding: 0px;
+}
+.ms-assetitem-thumbnail-imagecell DIV, .ms-assetitem-thumbnail-imagecell TD {
+    TEXT-ALIGN: center;
+    vertical-align: middle;
+    overflow: hidden;
+    WIDTH: 150px;
+}
+.ms-assetitem-thumbnail-infoline {
+    WIDTH: 140px;
+    overflow: hidden;
+    text-align: center;
+    TEXT-OVERFLOW: ellipsis;
+    text-wrapping: nowrap;
+    padding: 0px;
+}
+.ms-assetitem-thumbnail-infocell-unselected {
+    text-align: center;
+    background-color: #ffffff;
+    overflow: hidden;
+    HEIGHT: 3em;
+    padding: 0px;
+}
+.ms-assetitem-thumbnail-infocell-selected {
+    text-align: center;
+    background-color: #ffe6a0;
+    overflow: hidden;
+    HEIGHT: 3em;
+    padding: 0px;
+}
+.ms-assetpicker-header {
+    FONT-SIZE: 10px;  
+    COLOR: #6593cf;
+    FONT-FAMILY: Tahoma, Verdana;  
+    BACKGROUND-COLOR: #f0f3f7;
+    TEXT-ALIGN: left;
+}
+.ms-assetpicker-lookintable, .ms-assetpicker-lookintoplabelcell {
+    FONT-FAMILY: Tahoma, Verdana;  
+    TEXT-ALIGN: center;
+}
+.ms-assetpicker-lookintablecontainer, .ms-assetpicker-objectlistcontainer {
+    BORDER-RIGHT: #6f9dd9 1px solid;
+    BORDER-TOP: #6f9dd9 1px solid;
+    BORDER-LEFT: #6f9dd9 1px solid;
+    BORDER-BOTTOM: #6f9dd9 1px solid;
+    COLOR: #000000;
+    HEIGHT: 480px;
+}
+.ms-assetpicker-lookintablecontainer {
+    BACKGROUND-COLOR: #f2f8ff;
+    WIDTH: 100px;
+}
+.ms-assetpicker-lookin-toplabel-table {
+    BORDER-BOTTOM: #6f9dd9 1px solid;
+    WIDTH: 100px;
+    HEIGHT: 25px;
+    BACKGROUND-COLOR: #d6e8ff;
+}
+.ms-assetpicker-lookin-toplabel-cell{
+    BACKGROUND-COLOR: #d6e8ff;
+    COLOR: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+.ms-assetitem-lookinlabel-infoline {
+    WIDTH: 93px;
+    overflow: hidden;
+    text-align: center;
+    TEXT-OVERFLOW: ellipsis;
+    text-wrapping: nowrap;
+}
+.ms-assetpicker-lookintable A {
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+.ms-assetpicker-lookintable A:link {
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+.ms-assetpicker-lookintable A:visited {
+    COLOR: #000000;
+    TEXT-DECORATION: none;
+}
+.ms-assetpicker-lookincell {
+    HEIGHT: 100px;
+}
+.ms-assetpicker-lookincell-selected {
+    BACKGROUND-COLOR: #FFFFFF;
+    border: 1px solid #FFBC4B;
+}
+.ms-assetpicker-toolbar {
+    FONT-SIZE: 10px;  
+    COLOR: #666666;
+    FONT-FAMILY: Tahoma, Verdana;  
+}
+.ms-assetpicker-imagebutton {
+    vertical-align: top;
+}
+.ms-selectorlink a, .ms-selectorlink a:visited {
+    color:#003399 !important;
+    text-decoration: none !important; 
+    FONT-FAMILY: Tahoma, Verdana !important;  
+    font-weight:normal !important;
+}
+.ms-selectorlink a:hover, .ms-selectorlink a:active {
+    color:#000000 !important;
+    text-decoration: underline !important;
+    font-weight:normal !important;
+}
+.ms-selectorlinkdis img {
+    filter: alpha(opacity=25) !important;
+}
+.ms-selectorlinkdis a , .ms-selectorlinkdis a:visited, .ms-selectorlinkdis a:hover, .ms-selectorlinkdis a:active{
+    color: #C0C0C0 ! important;
+    cursor: default ! important;
+}
+.ms-cmstopnav-dynamicmenu {
+    borderwidth: 1px; 
+    bordercolor: #a5a5a5;
+}
+.ms-cmstopnav-dynamicmenuitem{
+	font-size: 8pt; 
+	ForeColor: #204d89;
+	BackColor: #ebf3ff;
+	HorizontalPadding: 9;
+	VerticalPadding: 4;
+}
+.ms-profilelabel {
+  text-align: left;
+  font-family: Tahoma, verdana;  
+  font-size: .7em;  
+  padding-top: 0px;
+  padding-right:3px;
+  padding-left:3px;
+  padding-bottom: 2px;
+  color: #525252;
+}
+.ms-profilevalue {
+  color: #4c4c4c;
+}
+.ms-profilevalue a:link, .ms-profilevalue  a:visited { 
+  color: #003399;
+  text-decoration: none;
+}
+.ms-profilevalue A:hover {
+  color: #ff0000;
+  text-decoration: underline;
+}
+.ms-profilevaluelarge {
+  font-size: 0.9em;  
+}
+.ms-profiledescription {
+  text-align: left;
+  font-family: Tahoma, verdana;  
+  font-size: 8pt;  
+  color: #666666;
+}
+.ms-profilebody {
+  background-color: #FFFFFF;
+  font-family: Tahoma, verdana;  
+  font-size: .7em;  
+}
+.ms-profileheader {
+  color: #666666;
+}
+.ms-profilesection {
+  color: #083772;
+}
+.ms-orgme {
+  background-color: #ebf3ff;
+  color: #517acc;
+}
+.ms-highlight {
+    border-color: #bdbdbd; 
+    border-style: solid; 
+    border-top-width: 1px; 
+    border-right-width: 1px; 
+    border-bottom-width: 1px; 
+    border-left-width: 1px;
+}
+.ms-ptable1 {
+  background-color : #f5f5f5;
+  border: 1px solid #e0e0e0;
+  padding-top:10px;
+  padding-bottom: 15px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.ms-ptable2 {
+  border:1px solid #ececec;
+  padding-top:12px;
+  padding-bottom: 15px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.ms-menubuttonselectbackground {
+  background-image: url("/_layouts/images/topnavover.gif");
+}
+.ms-reusableTextView {
+    background-color: #e0e0e0;
+    opacity: .55;
+    filter: alpha(opacity=55);
+    -moz-opacity: 0.55;
+    border:1px solid #000000;
+}
+.ms-reusableTextListItemRowHighlighted {
+    background-color: #FEE197;
+}
+.ms-reusableTextListItemRowSelected {
+    background-color: #00224d;
+}
+.ms-reusableTextListItemLeftCell {
+    border-top: solid 1px #FAFAFA;
+    border-left: solid 1px #FAFAFA;
+    border-bottom: solid 1px #FAFAFA;
+}
+.ms-reusableTextListItemMiddleCell {
+    border-top: solid 1px #FAFAFA;
+    border-bottom: solid 1px #FAFAFA;
+}
+.ms-reusableTextListItemRightCell {
+    border-top: solid 1px #FAFAFA;
+    border-right: solid 1px #FAFAFA;
+    border-bottom: solid 1px #FAFAFA;
+}
+.ms-reusableTextListItemLeftCellSelected {
+    border-top: solid 1px #2254B1;
+    border-left: solid 1px #2254B1;
+    border-bottom: solid 1px #2254B1;
+}
+.ms-reusableTextListItemMiddleCellSelected {
+    border-top: solid 1px #2254B1;
+    border-bottom: solid 1px #2254B1;
+}
+.ms-reusableTextListItemRightCellSelected {
+    border-top: solid 1px #2254B1;
+    border-right: solid 1px #2254B1;
+    border-bottom: solid 1px #2254B1;
+}
+.groupHide {
+    display:none;
+}
+.groupShow {
+    display:;
+}
+.srch-SocDistTitle {
+    margin-bottom:5px;  
+    font-family: tahoma;  
+    FONT-SIZE: 1.2em;  
+    font-weight:bold;
+    color:#333333;
+    BORDER-BOTTOM: #d6e8ff 1px solid;
+    Width: 100%;
+    padding-bottom: 2px;
+}
+.psrch-Description {
+    margin-left: 0;
+    COLOR: #333333; 
+    FONT-FAMILY: Tahoma;  
+    FONT-SIZE: 1.0em;  
+    padding-bottom: 2px;
+}
+.psrch-Description b {
+    font-weight:bold;
+    COLOR: #333333;
+}
+.psrch-PropLabel {
+    COLOR: #333333; 
+    FONT-FAMILY: Tahoma;  
+    FONT-SIZE: 1.0em;  
+}
+.psrch-PropValue {
+    COLOR: #008800; 
+    FONT-FAMILY: Tahoma;  
+    FONT-SIZE: 1.0em;  
+}
+.psrch-Title {
+    FONT-SIZE: 1.2em;  
+    FONT-FAMILY: Tahoma; 
+}
+.psrch-Title A:link, .psrch-Title A:visited{
+    text-decoration:none; 
+    color:#003399;
+    padding-left: 4px;
+    FONT-FAMILY: Tahoma; 
+}
+.psrch-Title a:hover{
+    text-decoration:underline;
+    color: #FF0000;
+}
+.psrch-Metadata {
+    FONT-SIZE: 1.0em;  
+    MARGIN: 0px 0px 25px; COLOR: #333333;     
+    FONT-FAMILY: Tahoma; 
+}
+.psrch-Action A:link, .psrch-Action A:visited {    
+    COLOR: #003399;
+}
+.psrch-profimg
+{
+    table-layout:fixed;
+    border:1px solid #e0ded5;
+    background-color:#ececec;
+}
+.psrch-result
+{
+    padding-bottom: 16px;
+}
+.psrch-propcell
+{
+    padding-left: 8px;
+}
+.psrch-Icon {
+    margin-left:10;
+    FLOAT: left;
+    POSITION: relative; 
+    TOP: 2px
+}
+.ms-reftitle {
+     COLOR: #333333;
+     FONT-FAMILY: Tahoma;  
+     font-weight: bold;
+     font-size: 9pt;  
+     padding-top: 1px;
+     width: 200px;
+}
+.ms-refsubtitle {
+    COLOR: #333333;
+    FONT-FAMILY: Tahoma;  
+    font-size: 8pt; 
+}
+.ms-refitem {
+    FONT-SIZE: 8pt;  
+    COLOR: #003399; 
+    FONT-FAMILY: Tahoma;      
+}
+td.ms-refsubtitle, td.ms-refitem {
+     padding-top: 3px;
+     padding-left: 3px;
+}
+td.ms-reftoggle {
+     padding-top: 3px;
+     padding-left: 3px;
+     padding-bottom: 7px;
+}
+.ms-refitem A:link, .ms-refitem A:visited {
+    COLOR: #003399;
+    text-decoration:none; 
+    padding-bottom: 2px;
+    FONT-FAMILY: Tahoma;  
+    font-size: 8pt;  
+}
+.ms-refitem A:hover, .ms-reftoggle A:hover {
+    COLOR: #000000;
+    text-decoration:underline; 
+}
+.ms-reftoggle {
+    COLOR:  #003399;
+    FONT-FAMILY: Tahoma;  
+    font-size: 8pt;  
+}
+.ms-reftoggle  A:link, .ms-reftoggle A:visited {
+    COLOR:  #003399;
+    text-decoration:none; 
+    padding-top: 0px;
+    margin-top: 0px;
+    FONT-FAMILY: Tahoma;  
+    font-size: 8pt;  
+}
+.srch-HighConfidence{
+    background-color:#f7f3cd;
+}
+.srch-HCMain{
+    border-bottom: 1px solid #6F9DD9;
+    margin:5px 0px 10px;
+    padding:0px;
+    width:100%;
+}
+.srch-BestBets{
+    width:100%; 
+}
+div.srch-BB-Result
+{
+    width: 100%;
+    padding-bottom:10px;
+}
+div.srch-BestBetsWPTitle
+{
+    background: url("/_layouts/images/checkmark.gif");
+    background-repeat: no-repeat;
+    background-position : top left; 
+    position: relative;
+    padding-bottom: 10px;
+}
+span.srch-BestBetsWPTitle
+{
+    FONT-SIZE: 1.2em;  
+    FONT-FAMILY: Tahoma;
+    color: #525252;
+    font-weight: bold;
+    padding-left: 20px;
+}
+div.srch-BestBetsBottom
+{
+    border-bottom: solid 1px #6F9DD9;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+span.srch-BB-URL {
+    width: 100%;
+    MARGIN: 0px 0px 4px 2px;
+}
+.srch-BB-URL A:link, .srch-BB-URL A:visited {    
+    COLOR: #008800 !important;
+}
+.srch-BB-URL a:hover {
+    color: #FF0000;
+}
+.srch-BestBetsTitle {
+    FONT-SIZE: 1.2em;  
+    MARGIN: 0px 0px 4px; color:#003399; 
+    FONT-FAMILY: Tahoma; 
+}
+.srch-BestBetsTitle A:link, .srch-BestBetsTitle A:visited{
+   text-decoration:none; 
+   color:#003399;
+}
+.srch-BestBetsTitle a:hover{
+    color: #FF0000;
+}
+span.srch-BestBetsTitle img{
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.srch-BB-Description {
+    FONT-SIZE: 1.0em;  
+    MARGIN: 0px 0px 4px 2px; COLOR: #333333; 
+    FONT-FAMILY: Tahoma; 
+    width: 100%;
+}
+.srch-BB-Description b {
+    font-weight:bold;
+    COLOR: #333333;
+}
+div.srch-BB-SpecialTerm {
+    FONT-SIZE: 1.0em !important;  
+    COLOR: #333333 !important; 
+    FONT-FAMILY: Tahoma !important; 
+    width:100%; 
+    padding-bottom: 10px;
+}
+div.srch-BB-SpecialTerm div {
+    FONT-SIZE: 1.0em !important;   
+    COLOR: #333333 !important; 
+    FONT-FAMILY: Tahoma !important; 
+}
+span.srch-BB-SpecialTerm {
+    MARGIN: 0px 0px 4px;    
+}
+span.srch-BB-SpecialTerm img {
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.srch-BB-SpecialTerm b {
+    FONT-SIZE: 1.2em;  
+    font-weight:bold;
+    COLOR: #333333;
+}
+.srch-InputText{
+    margin:0px;
+    font-family: tahoma, verdana;  
+    font-size:10pt;  
+    color:#666666;
+}
+td.srch-optionsLinkDiv {
+    border: none !important;
+    padding: 0px !important;
+}
+td.srch-options {
+    border: none !important;
+    padding: 3px !important;
+}
+.srch-options input
+{
+    border:solid 1px #a5a5a5;
+}
+.srch-options {
+    background-color: #d6e8ff;
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    color: #000000; 
+    font-style: normal; 
+    font-size: 8pt;  
+}
+.srch-optionsts {
+    font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;  
+    color: #000000; font-style: normal; 
+    font-size: 8pt;  
+}
+.srch-groupbar { 
+    color: #000000;
+    background-color: #ebf3ff;
+}
+.leftnavPic {
+    background-image: url("/_layouts/images/portraitbackground.gif");
+    background-repeat:repeat-x;
+    border:solid 1px #8ebbf5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	vertical-align:middle;
+background-color: #ebf3ff;
+}
+.incommonbody {
+	background-color: #ebf3ff;
+}
+.ms-navitem a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-navitem a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-navitem a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-navitem a {
+	color:#003399
+	text-decoration:none;
+}
+td.ms-vb {
+    font-size: 8pt; 
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+}
+th.ms-vh {
+    font-size: 8pt; 
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    text-decoration: none; 
+    vertical-align: top; 
+}
+.ms-vb a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-vb a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-vb a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-vb a {
+	color:#003399
+	text-decoration:none;
+}
+.ms-addnew a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-addnew a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-addnew a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-addnew a {
+	color:#003399;
+	text-decoration:none;
+}
+.ms-WPBody a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-WPBody a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-WPBody a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-WPBody a {
+	color:#003399
+	text-decoration:none;
+}
+.ms-qrblinks a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-qrblinks a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-qrblinks a {
+	color:#003399
+	text-decoration:none;
+}
+.ms-qrblinks a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-profilebody a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-profilebody a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-profilebody a {
+	color:#003399
+	text-decoration:none;
+}
+.ms-profilebody a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-WPHeader a:visited {
+	color:#3966bf;
+	text-decoration: none; 
+}
+.ms-WPHeader a:active {
+	color:#000000
+	text-decoration:underline;
+}
+.ms-WPHeader a {
+	color:#003399
+	text-decoration:none;
+}
+.ms-WPHeader a:hover {
+	color:#000000
+	text-decoration:underline;
+}
+.stopSuggestingLink {
+	color: #4e7cb7;
+}
+.ms-miniconsole {
+    position:relative;
+    top:2px;
+    left:0px;
+}
+.ms-miniconsoleEdit {
+    position:relative;
+    top:-11px;
+    left:auto;
+    right:4px;
+}
+.ms-pagedescription {
+    font-family: tahoma, Verdana, Arial, Helvetica; 
+    font-weight: normal;
+    font-size: 8pt; 
+    color: #000000;
+}
+.ms-sitedirresultssort {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt; 
+  font-weight: normal;
+  color: #517acc;
+  padding-bottom: 4px;
+}
+.ms-sitedirresultssort a:link, .ms-sitedirresultssort a:visited {
+  padding-right: 4px;
+  padding-left: 4px;
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-weight: normal;
+  color: #517acc;
+}
+.ms-sitedirresultssort span {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt; 
+  font-weight: normal;
+  color: #727272;
+}
+.ms-sitedirresultssort a:hover {
+  padding-right: 4px;
+  padding-left: 4px;
+  text-decoration: underline;
+  color: #000000;
+}
+.ms-sitedirresultspaging {
+  background: #ebf3ff;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+}
+.ms-sitedirresultspaging a:link, .ms-sitedirresultspaging a:visited,  .ms-sitedirresultspaging span {
+  padding-right: 4px;
+}
+.ms-sitedirresultsbody {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt; 
+  font-weight: normal;
+  padding-left: 4px;
+}
+.ms-sitedirresultstitle {
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+.ms-sitedirresultstitle a:link, .ms-sitedirresultstitle a:visited {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8.5pt; 
+  font-weight: normal;
+  color: #517acc;
+}
+.ms-sitedirresultstitle a:hover {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8.5pt; 
+  font-weight: normal;
+  color: #000000;
+  text-decoration:underline
+}
+.ms-sitedirresultsdescription {
+  padding-bottom: 2px;
+}
+.ms-sitedirresultsdescription span {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt; 
+  font-weight: normal;
+  color: #727272;
+}
+.ms-sitedirresultsurl {
+  padding-bottom: 6px;
+}
+.ms-sitedirresultsurl a:link, .ms-sitedirresultsurl a:visited {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt; 
+  font-weight: normal;
+  color: #517acc;
+}
+.ms-sitedirresultsurl a:hover {
+  font-family: tahoma, Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 8pt;
+  font-weight: normal;
+  color: #000000;
+  text-decoration:underline
+}
+.ms-colleaguereminder {
+    background-color: #ebf3ff;
+}
+.ms-managesection {
+    color: Navy;
+    font-weight: bold;
+}
+.ms-viewModeContentArea {
+    font-family:tahoma; 
+    font-weight:normal;
+    font-size:8pt; 
+}
+.required { 
+    color: #FF0000;
+}
+.ms-suggestalt {
+    background-color: #f2f8ff;
+}
+.ms-srchAlignTop {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+td.ms-advsrchText {
+    font-size: 8pt;  
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    padding-right: 4px;
+}
+select.ms-advsrchPropertyDDL {
+    font-size: 8pt;  
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    width: 160px; 
+    height: 20px; 
+}
+select.ms-advsrchOperatorDDL {
+    font-size: 8pt;  
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    width: 130px; 
+    height: 20px; 
+}
+.ms-advsrchPropValue {
+    font-size: 8pt;  
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    width: 150px; 
+    height: 20px;
+}
+select.ms-advsrchAndOrDDL {
+    font-size: 8pt;  
+    font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+    height: 20px; 
+}
+td.ms-advsrchHeadingText {
+   font-size: 8pt;  
+   font-family: tahoma, verdana, arial, helvetica, sans-serif; 
+   font-weight: bold;
+   background-color:#f5f5f5;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.ms-redirectControl {
+   color: #5b5b5b;
+   font-size: 8pt; 
+   font-family: tahoma; 
+}
+.ms-redirectControl a {
+    color:#003399;
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana; 
+}
+.ms-diffchange
+{
+    background-color: yellow;
+}
+.ms-profilevaluesmall {
+  font-size: 0.9em;  
+}
+div.ms-searchsummaryTitle
+{
+    margin-top: 2px;
+}
+.ms-searchsummaryTitle a
+{
+    color:#003399 !important;
+    font-size: 9pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding-top: 4px;
+}
+.ms-searchsummaryTitle a img
+{
+    border: 0px;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+.ms-searchsummaryUrl a
+{
+    color: #008800 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    margin-left: -16px;
+    padding: 0px;
+    padding-left: 16px;
+    padding-right: 4px;
+    text-overflow: ellipsis;
+}
+div.ms-searchsummarydescouter
+{
+    padding: 0px;
+    padding-bottom: 11px;
+    padding-right: 4px;
+    display: block;
+}
+div.ms-searchsummarydesc
+{
+    color: #595959 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding: 0px;
+}
+.ms-searchsummarydesc img
+{
+    width: 120px;
+    height: 160px;
+}
+.ms-searchsummarydesc div
+{
+    position: static !important;
+    float: none !important;
+    height: 100% !important;
+    margin: 0px !important;
+}
+.ms-searchsummarydesc div div
+{
+    position: static !important;
+    padding: 0px !important;
+    border: 0px !important;
+}
+.ms-searchsummarydesc div div embed
+{
+    height: 180px !important;
+    width: 240px !important;
+    align: 0px;
+    position: static !important;
+}
+.ms-searchsummarydesc font
+{
+    color: #595959 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding-left: 2px;
+}
+.ms-searchsummarymain
+{
+    width:100%;
+    padding:0px;
+    margin:0px;
+    border:0px;
+    background-color: #Ebf3ff;
+}
+div.ms-searchsummarybody
+{
+    padding-left: 16px;
+}
+div.ms-searchChannelTitle
+{
+    BACKGROUND: url(/_layouts/images/bluegradient.jpg) #73A1DD repeat-x;
+    border-width: 1px;
+    border-color: #CEE0F9;
+    border-style: solid;
+    padding:0px;
+    margin:0px;    
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.ms-searchChannelTitle span
+{
+    color: #003399 !important;
+    font-size: 10pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    font-weight: bold;
+    margin-left: 3px;
+}
+.ms-searchChannelTitle span img
+{
+    border: 0px;
+    margin-right: 3px;
+    margin-left: 13px;
+    vertical-align: middle;
+}
+.ms-searchsummarymorelink
+{
+    background: url("/_layouts/images/gosearch.gif");
+    background-repeat: no-repeat;
+    background-position : top left; 
+    padding: 0px;
+    margin-left: 16px;
+    padding-bottom: 10px;
+}
+.ms-searchsummarymorelink a
+{
+    color: #003399 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    font-weight: bold;
+    padding: 0px;
+    padding-left: 18px;
+    margin-right: 18px;
+}
+.ms-searchtaTitle a
+{
+    color:#003399 !important;
+    font-size: 9pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding-top: 4px;
+}
+.ms-searchtaTitle a img
+{
+    border: 0px;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+.ms-searchtaUrl a
+{
+    color: #008800 !important; 
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding-right: 4px;
+}
+div.ms-searchtadescouter
+{
+    padding: 0px;
+    padding-bottom: 11px;
+    padding-right: 4px;
+    display: block;
+}
+div.ms-searchtadesc
+{
+    color: #595959 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding: 0px;
+    margin-bottom: 4px;
+}
+.ms-searchtadesc img
+{
+    width: 120px;
+    height: 160px;
+}
+.ms-searchtadesc div
+{
+    position: static !important;
+    float: none !important;
+    height: 100% !important;
+    margin: 0px !important;
+}
+.ms-searchtadesc div div
+{
+    position: static !important;
+    padding: 0px !important;
+    border: 0px !important;
+}
+.ms-searchtadesc div div embed
+{
+    height: 180px !important;
+    width: 240px !important;
+    align: 0px;
+    position: static !important;
+}
+.ms-searchtadesc font
+{
+    color: #595959 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    padding-left: 2px;
+}
+.ms-searchtamain
+{
+    width:100%;
+    padding:0px;
+    margin:0px;
+    border-bottom: solid 1px #6F9DD9;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+div.ms-searchtabody
+{
+    overflow: hidden;
+}
+div.ms-searchtaChannelTitle
+{
+    background: url("/_layouts/images/checkmark.gif");
+    background-repeat: no-repeat;
+    background-position : center left; 
+    padding:0px;
+    margin:0px;
+    margin-bottom: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.ms-searchtaChannelTitle span
+{
+    color: #525252 !important;
+    font-size: 10pt !important; 
+    text-decoration: none; 
+    font-weight: bold;
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    margin-left: 3px;       
+}
+.ms-searchtaChannelTitle span img
+{
+    border: 0px;
+    margin-right: 3px;
+    margin-left: 16px;
+}
+.ms-searchtamorelink
+{
+    background: url("/_layouts/images/gosearch.gif");
+    background-repeat: no-repeat;
+    background-position : top left; 
+    padding: 0px;
+    padding-bottom: 10px;
+}
+.ms-searchtamorelink a
+{
+    color: #003399 !important;
+    font-size: 8pt !important; 
+    text-decoration: none; 
+    FONT-FAMILY: Tahoma, Verdana !important; 
+    font-weight: bold;
+    padding: 0px;
+    padding-left: 18px;
+    margin-right: 18px;
+}
+.srch-Metadata{
+    BORDER-TOP: 0px none !important; 
+    MARGIN:0px 0px 20px !important;
+}
+.ms-srchresultstop{
+    background-color: #EBF3FF;
+}
+.srch-stats{
+    background-color: #EBF3FF !important;
+    white-space:normal !important;
+}
+.srch-Page{
+    background-color: #EBF3FF !important;
+}
+.srch-HCSocDistTitle {
+    background: url("/_layouts/images/checkmark.gif");
+    background-repeat: no-repeat;
+    background-position : top left; 
+    PADDING-LEFT: 19px;
+    color:#525252 !important;
+    font-family: Tahoma,Verdana !important;
+    font-size:10pt !important;
+    font-weight:bold;
+    WIDTH: 100%;
+}
+.psrch-HCresult
+{
+    padding: 4px 0px 10px 2px;
+}
+.srch-sort-right{
+    float:none !important;
+    text-align:right;
+}
+.ms-searchadminwelcometitletext {
+	font-size:28.0pt; 
+	font-family: arial, tahoma, verdana, helvetica, sans-serif; 
+	color:#003296;
+	font-weight:bold;
+}
+.ms-searchadminwelcomenumbertext {
+	font-size:50.0pt; 
+	font-family: arial, tahoma, verdana, helvetica, sans-serif; 
+  	color:#C0C0C0;
+	font-style:italic;
+	font-weight:bold;
+}
+.ms-searchadminwelcomeheadingtext {
+	font-size: 14.0pt;  
+   	font-family: arial, tahoma, verdana, helvetica, sans-serif; 
+	color:#000000;
+}
+.ms-searchadminwelcomedescriptiontext {
+	font-size: 11.0pt;  
+   	font-family: arial, tahoma, verdana, helvetica, sans-serif;  
+	color:#000000;
+}

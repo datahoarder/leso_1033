@@ -1,0 +1,1142 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html id="ctl00_Html1" lang="en" __expr-val-dir="ltr" dir="ltr">
+	<link rel="shortcut icon" href="/PublishingImages/favicon.ico" />
+	<head id="ctl00_Head1"><meta name="google-site-verification" content="tQieTPnntsb8LH79h1glAoo4EXbgvHV3zj5oEGUeKI0" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><title>
+	
+	DLA Disposition Services eReading Room
+
+</title>
+		
+		<!--Metadata for use by Facebook-->
+		<meta property="”og:type”" content="government" /><meta property="”og:site_name”" content="Defense Logistics Agency" /><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/Band.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/pageLayouts.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/rca.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dla.publicportal.style_v01.css"/>
+
+		
+		<!--Styles used for positioning, font and spacing definitions-->
+		<script src="/_layouts/1033/init.js?rev=SKi7C%2FTrsh1U%2FCnIwkB9Ag%3D%3D"></script>
+<script src="/_layouts/1033/usgis.js?rev=1zOw%2B9DgUdB5wsx5qghccA%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+
+		
+		<!--Placeholder for additional overrides-->
+		
+	
+	
+	
+
+		
+		<!--[if lt IE 7]>
+			<style type="text/css">
+				.dla_featureditem
+				{
+					display:none;
+				}
+				/*  .style1 {
+				vertical-align: bottom;
+				display: none;
+				text-align: right;
+				}*/
+			.style1 {
+				margin-left: 2px;
+}
+			</style>
+		<![endif]--> 
+		
+	</head>
+
+	<body class="dla_body" onload="javascript:_spBodyOnLoadWrapper();">
+		<a href="#MainPageContent" class="skip">
+			Skip Navigation
+		</a>
+		
+		<form name="aspnetForm" method="post" action="ereadingroom.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xEFD3BBE75119DABA50479D85EDAFD31D8CF6A043FDFE76B10E5CD3F5020BBD8062D2BECDBF914AF43A5623B36EF8D75933145720E9A2257993C3B855F61EA21B,13 Aug 2015 00:02:31 -0000" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNTYzODA3NTcPZBYCZg9kFgICAQ9kFgQCAQ9kFgQCBQ9kFgJmD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIQD2QWAgIFDxYCHwALKwQBZAIDD2QWDAIFD2QWAgIBDzwrAA0CAA8WBh4LXyFEYXRhQm91bmRnHhRTdGF0aWNQb3BPdXRJbWFnZVVybAUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmHhVEeW5hbWljUG9wT3V0SW1hZ2VVcmwFJC9fbGF5b3V0cy9pbWFnZXMvbGFyZ2VhcnJvd3JpZ2h0LmdpZmQMFCsADwU7MDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgsMDo5LDA6MTAsMDoxMSwwOjEyLDA6MTMUKwACFg4eBFRleHQFJE1pbGl0YXJ5L0dvdmVybm1lbnQgUHJvcGVydHkgVHVybi1pbh4FVmFsdWUFJE1pbGl0YXJ5L0dvdmVybm1lbnQgUHJvcGVydHkgVHVybi1pbh4LTmF2aWdhdGVVcmwFGy90dXJuLWluL1BhZ2VzL2RlZmF1bHQuYXNweB4HRW5hYmxlZGceClNlbGVjdGFibGVnHghEYXRhUGF0aAUIL3R1cm4taW4eCURhdGFCb3VuZGdkFCsAAhYOHwQFHEVsZWN0cm9uaWMgVHVybi1JbiBEb2N1bWVudHMfBQUcRWxlY3Ryb25pYyBUdXJuLUluIERvY3VtZW50cx8GBRgvZXRpZC9QYWdlcy9kZWZhdWx0LmFzcHgfB2cfCGcfCQUFL2V0aWQfCmdkFCsAAhYOHwQFG1Byb3BlcnR5IGZvciBTYWxlIHRvIFB1YmxpYx8FBRtQcm9wZXJ0eSBmb3IgU2FsZSB0byBQdWJsaWMfBgUZL3NhbGVzL1BhZ2VzL2RlZmF1bHQuYXNweB8HZx8IZx8JBQYvc2FsZXMfCmdkFCsAAhYOHwQFGUNvbnRyb2xsZWQgUHJvcGVydHkgREVNSUwfBQUZQ29udHJvbGxlZCBQcm9wZXJ0eSBERU1JTB8GBR0vcHJvcGRlbWlsL1BhZ2VzL2RlZmF1bHQuYXNweB8HZx8IZx8JBQovcHJvcGRlbWlsHwpnZBQrAAIWEh8HZx8IZx8KZx8JBQ4vRUZPSUEtUHJpdmFjeR8EBQ1FRk9JQS1Qcml2YWN5HwUFDUVGT0lBLVByaXZhY3keB1Rvb2xUaXAFKkRpc3Bvc2l0aW9uIFNlcnZpY2VzIEVGT0lBLVByaXZhY3kgc3Vic2l0ZR4IU2VsZWN0ZWRnHwYFIS9FRk9JQS1Qcml2YWN5L1BhZ2VzL2RlZmF1bHQuYXNweBQrAAIFAzA6MBQrAAIWEB8EBSZETEEgRGlzcG9zaXRpb24gU2VydmljZXMgZVJlYWRpbmcgUm9vbR8FBSZETEEgRGlzcG9zaXRpb24gU2VydmljZXMgZVJlYWRpbmcgUm9vbR8GBSYvRUZPSUEtUHJpdmFjeS9QYWdlcy9lcmVhZGluZ3Jvb20uYXNweB8HZx8IZx8JBSYvRUZPSUEtUHJpdmFjeS9QYWdlcy9lcmVhZGluZ3Jvb20uYXNweB8KZx8MaGQUKwACFhAfBAUSU2NoZWR1bGUgYSBUdXJuLUluHwUFElNjaGVkdWxlIGEgVHVybi1Jbh8GBSpodHRwczovL3ZzbS5kaXN0cmlidXRpb24uZGxhLm1pbC9zY2hlZHVsZXIfCwUtRGlzcG9zaXRpb24gU2VydmljZXMgVHJhbnNwb3J0YXRpb24gU2NoZWR1bGVyHwdnHwhnHwkFKmh0dHBzOi8vdnNtLmRpc3RyaWJ1dGlvbi5kbGEubWlsL3NjaGVkdWxlch8KZ2QUKwACFg4fBAUgRmluZCBhIERpc3Bvc2l0aW9uIFNlcnZpY2VzIFNpdGUfBQUgRmluZCBhIERpc3Bvc2l0aW9uIFNlcnZpY2VzIFNpdGUfBgUYL2RybW8vUGFnZXMvZGVmYXVsdC5hc3B4HwdnHwhnHwkFGC9kcm1vL1BhZ2VzL2RlZmF1bHQuYXNweB8KZ2QUKwACFhAfBAUZZURvY3MgRG9jdW1lbnQgTWFuYWdlbWVudB8FBRllRG9jcyBEb2N1bWVudCBNYW5hZ2VtZW50HwYFJ2h0dHBzOi8vZWRvY3MuZG9jdW1lbnRzZXJ2aWNlcy5kbGEubWlsLx8LBRllRG9jcyBEb2N1bWVudCBNYW5hZ2VtZW50HwdnHwhnHwkFJ2h0dHBzOi8vZWRvY3MuZG9jdW1lbnRzZXJ2aWNlcy5kbGEubWlsLx8KZ2QUKwACFg4fBAUtRW52aXJvbm1lbnRhbCBhbmQgSGF6YXJkb3VzIERpc3Bvc2FsIEd1aWRhbmNlHwUFLUVudmlyb25tZW50YWwgYW5kIEhhemFyZG91cyBEaXNwb3NhbCBHdWlkYW5jZR8GBRovbmV3ZW52L1BhZ2VzL2RlZmF1bHQuYXNweB8HZx8IZx8JBQcvbmV3ZW52HwpnZBQrAAIWDh8EBR9SZXV0aWxpemF0aW9uIFRyYW5zZmVyIERvbmF0aW9uHwUFH1JldXRpbGl6YXRpb24gVHJhbnNmZXIgRG9uYXRpb24fBgUXL3J0ZDAzL1BhZ2VzL2luZGV4LmFzcHgfB2cfCGcfCQUGL3J0ZDAzHwpnZBQrAAIWDh8EBQtDb250cmFjdGluZx8FBQtDb250cmFjdGluZx8GBRsvbmV3cHJvYy9QYWdlcy9kZWZhdWx0LmFzcHgfB2cfCGcfCQUIL25ld3Byb2MfCmdkFCsAAhYOHwQFEEN1c3RvbWVyIFN1cHBvcnQfBQUQQ3VzdG9tZXIgU3VwcG9ydB8GBSAvY3JtL1BhZ2VzL0N1c3RvbWVyIFN1cHBvcnQuYXNweB8HZx8IZx8JBQQvY3JtHwpnZBQrAAIWDh8EBR5MYXcgRW5mb3JjZW1lbnQgU3VwcG9ydCBPZmZpY2UfBQUeTGF3IEVuZm9yY2VtZW50IFN1cHBvcnQgT2ZmaWNlHwYFGC9sZXNvL1BhZ2VzL2RlZmF1bHQuYXNweB8HZx8IZx8JBQUvbGVzbx8KZ2QUKwACFhAfBAUSUHVibGljIEluZm9ybWF0aW9uHwUFElB1YmxpYyBJbmZvcm1hdGlvbh8GBRgvcHViYWZmL1BhZ2VzL2luZGV4LmFzcHgfCwUrRExBIERpcHNvc2l0aW9uIFNlcnZpY2VzIFB1YmxpYyBJbmZvcm1hdGlvbh8HZx8IZx8JBQcvcHViYWZmHwpnZGQCDQ9kFgICAQ9kFgJmD2QWAgIBDw9kFgIeBWNsYXNzBRhtcy1zYnRhYmxlIG1zLXNidGFibGUtZXhkAhMPZBYEAgMPZBYCAgEPFgIfAAsrBAFkAgUPZBYCAgMPFgIfAAsrBAFkAhUPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHw5oZAIDDxYCHw5oZAIFDxYCHw5oZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCGw9kFgICAg8PFgIfDmcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIdD2QWAgIDD2QWAgIBDw8WAh8OZ2QWBAIBDw8WAh8OaGQWHAIBDw8WAh8OaGRkAgMPFgIfDmhkAgUPDxYCHw5oZGQCBw8WAh8OaGQCCQ8PFgIfDmhkZAILDw8WAh8OaGRkAg0PDxYCHw5oZGQCDw8PFgQfB2gfDmhkZAIRDw8WAh8OaGRkAhMPDxYEHwdoHw5oZGQCFQ8PFgIfDmhkZAIXDxYCHw5oZAIZDxYCHw5oZAIbDw8WAh8OZ2RkAgMPDxYCHw5nZBYGAgEPDxYCHw5nZGQCAw8PFgYeGHBlcnNpc3RlZEVycm9yQWN0aW9uVHJlZWQeG3BlcnNpc3RlZEVycm9yQWN0aW9uVHJlZUlkc2QfDmdkZAIFDw8WAh8OZ2RkGAIFRGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkUGxhY2VIb2xkZXJIb3Jpem9udGFsTmF2JFRvcE5hdmlnYXRpb25NZW51Dw9kBSJEaXNwb3NpdGlvbiBTZXJ2aWNlc1xFRk9JQS1Qcml2YWN5ZAUrY3RsMDAkUGxhY2VIb2xkZXJMZWZ0TmF2QmFyJFF1aWNrTGF1bmNoTWVudQ8PZAUNRUZPSUEtUHJpdmFjeWSL1oVtvxaeoZzjo+4RuT6lFXTAWg==" />
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=IC62zvUkjUFg5UOxxNTnVoHujZ-qq2knEIj3TA6sWMvO6-ONAptYrFEBHJchdCBFpiU4DQdcwp4q4aysdAv0iFEAo641&amp;t=635294915132453548" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLo7JSiDgLQn5bCCwKotqKDBgLchIGUAgLchIGUAgKwsq+DC2SuDTnf49zuPOkZffachguKmCT0" />
+			
+
+			<table style="width: 776px;" bgcolor="#000000" cellspacing="0" cellpadding="0" align="center">
+				<tr>
+					<td id="directors_guidance" colspan="2">
+						<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody" OnlyForMePart="true" allowDelete="false" style="" ><style type="text/css">
+.dla_featureditem
+{
+    position:relative;
+    left:817px;
+    top:9px;
+    height:1px;
+    width:165px;
+}
+</style>
+
+<script type="text/javascript">
+<!--
+function leavesite() {
+	var answer = confirm("You are about to leave the www.dla.mil website. Would you like to continue?")
+	if (answer){
+		window.location = "http://www.ndia.org/meetings/1780";
+	}
+	else{
+	}
+}
+//-->
+</script>
+
+<div class="dla_featureditem" id="directors_guidance" style="left:817px;top:0px">
+<a href="http://www.dla.mil/Documents/Strategic%20Plan%202015%20web.pdf" target="_blank"><img src="/PublishingImages/dlatoday02BannerButtonStratPlan.png" alt="DLA Strategic Plan" border="0" width="170" height="98" /></a>
+</div>
+
+
+<script type="text/javascript">
+	protected override bool AllowAnonymousAccess
+	{	
+		get{
+			return true;
+		}
+	}
+
+</script></div></td>
+	</tr>
+</table>
+					</td>
+				</tr>
+				<tr valign="top" bgcolor="#e2e9f1">
+					<td style="width: 220px" valign="top" bgcolor="#336797" align="center">
+						<h1 title="Defense Logistics Agency - Home Page">
+							<div style="width: 100%; padding:0; text-align:center;" id="Left_Nav">
+								<div>
+									<a href="http://www.dla.mil" class="ContentLink" target="_blank">
+										<img id="dla_logo" width="220px" height="150px" src="/PublishingImages/logo_new.jpg" alt="Defense Logistic Agency Home"  class="dla_logo" border="0">
+									</a>
+								</div>
+								<div style="text-align:center;background-color:#336797">
+									<div style="width: 220px; padding=0; text-align:center; vertical-align:middle; background-color:#336797" >
+										<div style="text-align:center; width:200px;" id="dla_leftbarnav">
+											
+												<a href="#zz1_QuickLaunchMenu_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=Vwu-UmghwHoW_cNpmm4tieY3hpkLdnivbFcJkt37dNtqu3xr_Opz78xIJbHMJBKnEDD4tyQ5CZ5HicSWM2aBV7TnlGU1&amp;t=635294915132453548" width="0" height="0" border="0" /></a><table id="zz1_QuickLaunchMenu" cellpadding="0" cellspacing="0" border="0" width="180">
+	<tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun0">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/turn-in/Pages/default.aspx" accesskey="3">Military/Government Property Turn-in</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun1">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/etid/Pages/default.aspx">Electronic Turn-In Documents</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun2">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/sales/Pages/default.aspx">Property for Sale to Public</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun3">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/propdemil/Pages/default.aspx">Controlled Property DEMIL</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services EFOIA-Privacy subsite" id="zz1_QuickLaunchMenun4">
+		<td><table class="dla_topnav dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav dla_topnav" href="/EFOIA-Privacy/Pages/default.aspx">EFOIA-Privacy</a></td><td width="0"><img src="/_layouts/images/largearrowright.gif" alt="Expand EFOIA-Privacy" valign="middle" /></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services Transportation Scheduler" id="zz1_QuickLaunchMenun5">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="https://vsm.distribution.dla.mil/scheduler">Schedule a Turn-In</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun6">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/drmo/Pages/default.aspx">Find a Disposition Services Site</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="eDocs Document Management" id="zz1_QuickLaunchMenun7">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="https://edocs.documentservices.dla.mil/">eDocs Document Management</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun8">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/newenv/Pages/default.aspx">Environmental and Hazardous Disposal Guidance</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun9">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/rtd03/Pages/index.aspx">Reutilization Transfer Donation</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun10">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/newproc/Pages/default.aspx">Contracting</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun11">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/crm/Pages/Customer%20Support.aspx">Customer Support</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun12">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/leso/Pages/default.aspx">Law Enforcement Support Office</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="DLA Dipsosition Services Public Information" id="zz1_QuickLaunchMenun13">
+		<td><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+			<tr>
+				<td width="100%"><a class="dla_topnav" href="/pubaff/Pages/index.aspx">Public Information</a></td>
+			</tr>
+		</table></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table><div id="zz1_QuickLaunchMenun4Items" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_QuickLaunchMenun14">
+			<td><table class="dla_topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%" width="180">
+				<tr>
+					<td width="100%"><a class="dla_topNavFlyOuts" href="/EFOIA-Privacy/Pages/ereadingroom.aspx">DLA Disposition Services eReading Room</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="dla_topNavFlyOuts" id="zz1_QuickLaunchMenun4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=HhlMdwwWGz7FN1ku6TI1uZssmMiqLBWeq5j2q1yfnSGZBFGaVTn2wIbEMUDg1bXBe1cG8SxYrAbVsWvXdg8D8GZ85xw1&amp;t=635294915132453548" alt="Scroll up" />
+	</div><div class="dla_topNavFlyOuts" id="zz1_QuickLaunchMenun4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=MZ6UioI4EOo_IMC4AAe1dXLTJxx08XCb9nVuHKEnh2kI_e9i8q5x5sbxVLHZI--pX-krIkWMEoR7MUrtCUALvYbT4ro1&amp;t=635294915132453548" alt="Scroll down" />
+	</div>
+</div><a id="zz1_QuickLaunchMenu_SkipLink"></a>
+												
+												
+											
+											
+										</div>
+																						
+										
+											<!-- Style for space between image rows -->
+											
+											<div id="_invisibleIfEmpty1" name="_invisibleIfEmpty1" style="vertical-align:top; height:100%; padding-top:5px;">												 
+												<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" width="100%" class="ms-WPBody" OnlyForMePart="true" allowDelete="false" style="" ><style type="text/css">
+#dla_navspacer
+{
+	height:8px;
+	width:180px;
+}
+.dla_leftnav
+{
+	background-color:#336797;
+	width:100%;
+	text-align:center;
+	padding-bottom:10px;
+}
+.center {
+	text-align: center;
+}
+</style>
+
+<table class="dla_leftnav">
+	
+		<tr>
+		
+			<td>
+				<a href="/Documents/CurrentWorld.pdf">	
+ 					<img alt="World" id="World" src="/PublishingImages/Homepage/temp/world.png" width="180"  border="0" 
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/world2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/world.png'"/>
+
+				</a>
+			</td>
+		</tr> 
+
+
+
+
+		<tr>
+		
+			<td>
+				<a href="http://www.dla.mil/smallbusiness/Pages/default.aspx">	
+ 					<img alt="Link to Small Business" id="small_business" src="/PublishingImages/Homepage/temp/sbl.png" width="180"  border="0"
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/sbl2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/sbl.png'" />
+				</a>
+			</td>
+		</tr>
+
+
+		<tr>
+		
+			<td>
+				<a href="http://www.dla.mil/areas_focus.aspx">	
+ 					<img alt="Areas of focus" id="dla_areas_focus" src="/PublishingImages/Homepage/temp/DLA_FocusAreas.jpg" width="180" height="140" border="0" 
+					onmouseover= "this.src='/PublishingImages/Homepage/temp/DLA_FocusAreas2.png'" 
+					onmouseout= "this.src='/PublishingImages/Homepage/temp/DLA_FocusAreas.jpg'"/>
+				</a>
+			</td>
+		</tr> 
+	   
+
+ 		
+	
+</table>
+</div></td>
+	</tr>
+</table>
+											</div>
+										
+									</div>
+								</div>
+							</div>
+						</h1>
+						<h2 style="display:none;">
+							Hidden Header
+						</h2>
+					</td>
+					<td style="width: 776px" valign="top">
+						<div style="width: 100%; padding:0; border:0; background-color:#e2e9f1" id="pgtop">
+							<div style="background-color:#336799">
+								<div style="width: 776px; height: 98px; padding:0; border:0;" id="top_banner">
+																								
+										<!-- JAW, 07/13/10: TODO Change to style refs -->									
+										<img id="dla_banner" src="/PublishingImages/disposition_services_banner.jpg" width="776px" height="98px"alt="DLA Banner" border="0" />
+									
+								</div>							
+							</div>
+							<div style="background-color:#336799;" id="search_row_actual">
+							<table class="tbltoptabs" style="width: 100%; left: 0px; top: 0px;" cellspacing="0" cellpadding="0" border="0" id="search_row">
+								<tr>
+										<td class="CurrentDate"> <!-- JAW, 07/13/10: simplified date display -->
+											<script language="JavaScript" type="text/javascript">
+												document.write(new Date().toLocaleDateString());                            
+											</script>
+										</td>
+										<td align="left">
+											
+										</td>
+										<td class="search">	
+											
+												<table TOPLEVEL border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" OnlyForMePart="true" allowDelete="false" style="" ><div id="SRSB"> <div>
+			<input name="ctl00$PlaceHolderSearchArea$ctl00$ctl00" type="hidden" id="ctl00_PlaceHolderSearchArea_ctl00_ctl00" value="http://www.dispositionservices.dla.mil/EFOIA-Privacy" /><table class="ms-sbtable ms-sbtable-ex" border="0">
+				<tr class="ms-sbrow">
+					<td class="ms-sbscopes ms-sbcell"><select name="ctl00$PlaceHolderSearchArea$ctl00$SBScopesDDL" id="ctl00_PlaceHolderSearchArea_ctl00_SBScopesDDL" title="Search Scope" class="ms-sbscopes">
+						<option value="This Site">This Site: EFOIA-Privacy</option>
+						<option selected="selected" value="">Disp</option>
+						<option value="">All Sites</option>
+
+					</select></td><td class="ms-sbcell"><input name="ctl00$PlaceHolderSearchArea$ctl00$S3031AEBA_InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords" accesskey="S" title="Enter search words" class="ms-sbplain" alt="Enter search words" onkeypress="javascript:return S3031AEBA_OSBEK(event);" style="width:170px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_go" title="Go Search" href="javascript:S3031AEBA_Submit()"><img title="Go Search" onmouseover="this.src='/_layouts/images/gosearch.gif'" onmouseout="this.src='/_layouts/images/gosearch.gif'" alt="Go Search" src="/_layouts/images/gosearch.gif" border="0" /></a></td><td class="ms-sbcell ms-sblink"><a id="ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_AdvSearchLink" title="Advanced Search" href="/SearchCenter/Pages/Advanced.aspx">Advanced Search</a></td><td class="ms-sbLastcell"></td>
+				</tr>
+			</table>
+		</div></div></div></td>
+	</tr>
+</table>
+											
+										</td>
+									</tr>
+								</table>
+							</div>
+							
+							<!-- JAW, 07/14/10: Global (top tabs) navigation begin -->
+							<div id="onetIdTopNavBarContainer" class="ms-bannerContainer">
+								
+									<div class="ms-bannerframe" style="background-color:#336797; border:0;padding:0;">
+										<div style="white-space:nowrap; vertical-align:middle;"/>
+										<div class=style1 ID="HBN100" style="width: 776px">
+											
+												<table id="zz2_TopNavigationMenu" class="ms-topNavContainer" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun0"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td nowrap="nowrap"><a class="dla_topnav" href="/Pages/default.aspx" accesskey="1">Disposition Services</a></td>
+			</tr>
+		</table></td><td width="0"></td><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Welcome to Disposition Services" id="zz2_TopNavigationMenun1"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Pages/About_Disposition_Services.aspx">About Us</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Dispostion Services Careers subsite" id="zz2_TopNavigationMenun2"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Careers/Pages/default.aspx">Careers</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services Directory subsite" id="zz2_TopNavigationMenun3"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/POCList/Pages/default.aspx">Program POCs</a></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services Library subsite" id="zz2_TopNavigationMenun4"><table class="dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav" href="/Library/Pages/default.aspx">Library</a></td><td width="0"><img src="/_layouts/images/menudark.gif" alt="Expand Library" valign="middle" /></td>
+					</tr>
+				</table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Disposition Services EFOIA-Privacy subsite" id="zz2_TopNavigationMenun5"><table class="dla_topnav dla_topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td nowrap="nowrap"><a class="dla_topnav dla_topnav" href="/EFOIA-Privacy/Pages/default.aspx">EFOIA-Privacy</a></td><td width="0"><img src="/_layouts/images/menudark.gif" alt="Expand EFOIA-Privacy" valign="middle" /></td>
+					</tr>
+				</table></td><td width="0"></td>
+			</tr>
+		</table><div id="zz2_TopNavigationMenun4Items" style="display:none;">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun6">
+					<td><table class="dla_topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td nowrap="nowrap" width="100%"><a class="dla_topNavFlyOuts" href="/Library/Pages/Point%2014.aspx">Point 14</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=HhlMdwwWGz7FN1ku6TI1uZssmMiqLBWeq5j2q1yfnSGZBFGaVTn2wIbEMUDg1bXBe1cG8SxYrAbVsWvXdg8D8GZ85xw1&amp;t=635294915132453548" alt="Scroll up" />
+			</div><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=MZ6UioI4EOo_IMC4AAe1dXLTJxx08XCb9nVuHKEnh2kI_e9i8q5x5sbxVLHZI--pX-krIkWMEoR7MUrtCUALvYbT4ro1&amp;t=635294915132453548" alt="Scroll down" />
+			</div>
+		</div><div id="zz2_TopNavigationMenun5Items" style="display:none;">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_TopNavigationMenun7">
+					<td><table class="dla_topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td nowrap="nowrap" width="100%"><a class="dla_topNavFlyOuts" href="/EFOIA-Privacy/Pages/ereadingroom.aspx">DLA Disposition Services eReading Room</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=HhlMdwwWGz7FN1ku6TI1uZssmMiqLBWeq5j2q1yfnSGZBFGaVTn2wIbEMUDg1bXBe1cG8SxYrAbVsWvXdg8D8GZ85xw1&amp;t=635294915132453548" alt="Scroll up" />
+			</div><div class="dla_topNavFlyOuts" id="zz2_TopNavigationMenun5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+				<img src="/WebResource.axd?d=MZ6UioI4EOo_IMC4AAe1dXLTJxx08XCb9nVuHKEnh2kI_e9i8q5x5sbxVLHZI--pX-krIkWMEoR7MUrtCUALvYbT4ro1&amp;t=635294915132453548" alt="Scroll down" />
+			</div>
+		</div></td>
+	</tr>
+</table>
+												
+																									
+											
+										</div>
+									</div>
+								
+							</div>										
+							<!-- JAW, 07/14/10: Global navigation end -->
+							
+							<div id="breadcrumb_area" style="background-color:#e2e9f1;">
+									<!-- Breadcrumd begin -->
+									
+	<div class="breadcrumb">
+		<span id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath"><span><a class="ms-sitemapdirectional" href="/Pages/default.aspx">Disposition Services</a></span><span> &gt; </span><span><a title="Disposition Services EFOIA-Privacy subsite" class="ms-sitemapdirectional" href="/EFOIA-Privacy/Pages/default.aspx">EFOIA-Privacy</a></span><span> &gt; </span><span class="breadcrumbCurrent">DLA Disposition Services eReading Room</span></span>
+	</div>
+
+									<!-- Breadcrumb end--->								
+							</div>
+							<div class="style1" style="width:100%; background-color:#e2e9f1;" align="left">
+								<div id="ctl00_MSO_ContentDiv" class="mainContainer">
+									<div>
+										
+									</div>
+									<div class="pageTitle">
+										
+	DLA Disposition Services eReading Room&nbsp;
+
+									</div>													
+									<div class="mainContent" id="MainPageContent">
+										
+	
+	<table id="MSO_ContentTable" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+			<td>
+				<div class="pageContent">
+					<div id="ctl00_PlaceHolderMain_content__ControlWrapper_RichHtmlField" style="display:inline"><p style="margin-bottom:0px;margin-top:0px">  </p>
+<p class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><a name="_GoBack"></a><a name=content></a><b><span style="font-size:9pt;font-family:'tahoma','sans-serif';color:#666666">Electronic Reading Room</span></b><span style="font-size:9pt;font-family:'tahoma','sans-serif';color:#666666"> </span></p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p style="margin-bottom:0px;margin-top:0px" align=left><span class=SubtitleVerdana12ptBlackBold>The only official versions of these documents are printed or hard copy materials. If there are any discrepancies between the electronic version and the hard copy original, the hard copy prevails. </span></p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<hr>
+
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p style="margin-bottom:0px;margin-top:0px" align=left><span class=SubtitleVerdana12ptBlackBold>5 U.S.C. § 552(a)(2)(A) Records - </span><span class=ContentVerdana12ptBlack>Final opinions and orders made in the adjudication of cases that may be cited, used, or relied upon as precedents in future adjudications. <br></span><span class=ContentItalicVerdana12ptBlack>DLA Disposition Services does not possess this type of record. Refer to DOD <span class=Link><a class=Link href="http://www.dod.mil/pubs/foi/rdroom.html">Requester Service Center Reading Room </a></span>. </span></p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<hr>
+
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=left><span class=SubtitleVerdana12ptBlackBold>5 U.S.C. § 552 (a)(2)(C) Records</span>– Administrative staff manuals and instructions, or portions thereof, that establish DOD policy or interpretation of policy that affect the public. </p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<hr>
+
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p class=ContentVerdana12ptBlack style="margin-top:0px" align=left><span class=SubtitleVerdana12ptBlackBold>5 U.S.C. § 552 (a)(2)(D) Records</span> – Records released to the public, under the FOIA, that are or will likely become the subject of subsequent requests. (e.g., FOIA Logs, annual reports)</p>
+<p class=ContentVerdana12ptBlack align=center><strong>Download Instructions:</strong> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px" align=left>Internet Explorer: &lt;Right Click&gt; File Name and select &quot;Save Target as...&quot;. Saving to the Desktop is recommended. Then use the appropriate program for the filetype to open the file. </p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<table style="height:118px;width:700px" width=531 align=center summary="" border=1>
+<tbody>
+<tr>
+<td class=SubtitleVerdana12ptBlackBold valign=middle align=center>Data File </td>
+<td class=SubtitleVerdana12ptBlackBold>
+<div align=center>Date Last <br>Updated </div></td></tr>
+<tr>
+<td class=ContentVerdana12ptBlack>(filesize MB)</td>
+<td class=ContentVerdana12ptBlack>
+<div align=center>MM/DD/YYYY</div></td></tr>
+<tr class=FiletypeVerdana10ptBlack>
+<td class=ContentVerdana12ptBlack height=20><a title="" href="/EFOIA-Privacy/Documents/LTS_Columbus.xls">
+<p style="margin-bottom:0px;margin-top:0px">LTS Columbus</p>
+<p style="margin-bottom:0px;margin-top:0px"></p></a>
+<p style="margin-bottom:0px;margin-top:0px">22,280 KB</p></td>
+<td>
+<div class=ContentVerdana12ptBlack align=center>7/14/2015</div></td></tr>
+<tr class=FiletypeVerdana10ptBlack>
+<td> </td>
+<td>
+<div align=center></div></td></tr></tbody></table>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<table style="width:700px" width=535 align=center summary="" border=1>
+<tbody>
+<tr valign=top>
+<td class=SubtitleVerdana12ptBlackBold width=397>
+<div align=center>Sale of Government Property <br>Contract # 08-0001-0001 <br>(CV) Data File</div></td>
+<td class=SubtitleVerdana12ptBlackBold width=122>
+<div align=center>Date Last Updated</div></td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Invitation%20For%20Bid%20(IFB)%2008-0001%20(Amendment%201%20thru%206%20included)%20FOIA.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Invitation For Bid (IFB) 08-0001</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>206.1KB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/CV3%20Amendments%201-9.pdf">
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">Amendments 1-9</p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px"></a>4.55 MB</p></td>
+<td class=ContentVerdana12ptBlack>7/10/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%201%20February%204,%202009%20FOIA.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 1 February 4, 2009</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.54 MB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%202%20February%2022,%202011%20FOIA.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 2 February 22, 2011</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>481.3 KB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%203%20May%204,%202011%20FOIA_Redacted.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 3 May 4, 2011</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1,000 MB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%204%20August%2019,%202011%20FOIA_Redacted.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 4 August 19, 2011</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.18 MB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%205%20June%207,%202012%20FOIA_Redacted.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 5 June 7, 2012</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.26 MB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%206%20September%2013,%202012%20FOIA_Redacted.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 6 September 13, 2012</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.22 MB</p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/Modification%207%20December%2018,%202012%20FOIA_Redacted.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Modification 7 December 18, 2012</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.75 MB </p></td>
+<td class=ContentVerdana12ptBlack>02/19/2013</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack> </td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td><a title="" href="/EFOIA-Privacy/Documents/OfficialBidAbstract08-0001.xls">
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">Official Bid Abstract for IFB 08-0001</p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px"></a> </p></td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/080001RFTP.doc">
+<p style="margin-bottom:0px;margin-top:0px">Request for Technical Proposal</p>
+<p style="margin-bottom:0px;margin-top:0px"></a> </p></td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack> </td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/HistoricalSummary.xls">
+<p style="margin-bottom:0px;margin-top:0px">Historical Summary of Property Issued under</p>
+<p style="margin-bottom:0px;margin-top:0px"></p></a>
+<p style="margin-bottom:0px;margin-top:0px">IFB 08-0001 FY09-12 <br>4,794 KB</p></td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack> </td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/EUC.xls">
+<p style="margin-bottom:0px;margin-top:0px">EUC's Received for TSC Clearance Process 2009-2013</p>
+<p style="margin-bottom:0px;margin-top:0px"></p></a>
+<p style="margin-bottom:0px;margin-top:0px">12 KB</p></td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack> </td>
+<td class=ContentVerdana12ptBlack> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/CV3_Payment_REPORT.xls">
+<p style="margin-bottom:0px;margin-top:0px">Contractor Payments Received</p>
+<p style="margin-bottom:0px;margin-top:0px"></p></a>
+<p style="margin-bottom:0px;margin-top:0px">15.2 KB</p></td>
+<td class=ContentVerdana12ptBlack>3/12/2015</td></tr></tbody></table>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><br></p>
+<table style="width:700px" width=535 align=center summary="" border=1>
+<tbody>
+<tr valign=top>
+<td width=97> </td>
+<td width=93> </td></tr>
+<tr valign=top>
+<td class=SubtitleVerdana12ptBlackBold>
+<div align=center>Sale of Government Material <br>Contract # 99-4001-0004<br>(SV) Data File</div></td>
+<td>
+<div align=center><span class=SubtitleVerdana12ptBlackBold>Date Last Updated</span></div></td></tr>
+<tr valign=top>
+<td><a title="" href="/EFOIA-Privacy/Documents/SVIFB.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Invitation For Bid (IFB 99-4001)</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>1.38 MB</p></td>
+<td class=ContentVerdana12ptBlack>03/17/2004</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA1.pdf">Supplemental Agreement 1<br></a>1.31 MB <br><br></td>
+<td class=ContentVerdana12ptBlack>08/03/2005</td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack height=37><a title="" href="/EFOIA-Privacy/Documents/SVSA2.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 2</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>25.0 KB<br><br></p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA3.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 3</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>25.0 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA4.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 4</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>23.0 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA5.pdf">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 5</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>2.08 MB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA6.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 6</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>12.9 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA7.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 7</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>22.0 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA8.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 8</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>25.0 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA9.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 9</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>25.0 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVSA10.doc">
+<p style="margin-bottom:0px;margin-top:0px">Supplemental Agreement 10</p>
+<p style="margin-bottom:0px;margin-top:0px"></a>27.5 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td> </td>
+<td> </td></tr>
+<tr valign=top>
+<td><a title="" href="/EFOIA-Privacy/Documents/SVOfficialBidAbstract994001.pdf">
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">Official Bid Abstract for IFB 99-4001</p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px"></a>6.4 KB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td> </td>
+<td> </td></tr>
+<tr valign=top>
+<td class=ContentVerdana12ptBlack><a title="" href="/EFOIA-Privacy/Documents/SVHistoricalSummary.xls">
+<p style="margin-bottom:0px;margin-top:0px">Historical Summary of Material Issued under</p>
+<p style="margin-bottom:0px;margin-top:0px"></p></a>
+<p style="margin-bottom:0px;margin-top:0px">IFB 99-4001 FY10-12</p>
+<p style="margin-bottom:0px;margin-top:0px">103.9 KB</p>
+<p style="margin-bottom:0px;margin-top:0px"><br></p></td>
+<td> </td></tr>
+<tr valign=top>
+<td> </td>
+<td> </td></tr>
+<tr valign=top>
+<td><a title="" href="/EFOIA-Privacy/Documents/SV%20RFTP%2099-4001%20March%202004.pdf">
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">SV Request for Technical Proposals</p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px"></a>3.50 MB</p></td>
+<td> </td></tr>
+<tr valign=top>
+<td> </td>
+<td> </td></tr>
+<tr valign=top>
+<td><a title="" href="/EFOIA-Privacy/Documents/SVPaymentREPORT.xls">
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">Contractor Payments Received</p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px"></p></a>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px">36.0 KB</p></td>
+<td class=ContentVerdana12ptBlack>3/12/20115</td></tr></tbody></table><span class=Link>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center>  
+<table class=MsoTableGrid style="border-top:medium none;height:277px;border-right:medium none;width:691px;border-collapse:collapse;border-bottom:medium none;border-left:medium none" cellspacing=0 cellpadding=0 border=1>
+<tbody>
+<tr>
+<td style="border-top:windowtext 1pt solid;border-right:windowtext 1pt solid;width:7.15in;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=686 colspan=2>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"> </p>
+<dt><font size=3>Rolling Stock Assets</font></dt>
+<dt><font size=3>Surplus Usable Property</font></dt>
+<dt><font size=3>Liquidation Sale</font></dt>
+<dt><font size=3>Contract Number: 14-0092-0001</font></dt>
+<dt><font size=3>(CV4) Data File</font></dt>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"></p></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<div align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Rolling%20Stock%20Contract/CV4RMasterIFB92.docx">
+<div align=left>Invitation for Bid (IFB) Number 14-0092</div></a>131 KB </div></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal">Finalized March 18, 2014  </p></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<dl>
+<dt>
+<div align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Rolling%20Stock%20Contract/14-0092OfficialBidAbstract.xls">Official Abstract</a> </div></dt>
+<dt>
+<div align=left>31 KB</div></dt></dl></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal">April 2, 2014 </p></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<dl>
+<dt>
+<div align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Rolling%20Stock%20Contract/IPAwardDocument.pdf">
+<div align=left>Contract Award</div></a>1,027 KB</div></dt></dl></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"> July 25, 2014 </p></td></tr></tbody></table> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center>  </span> <span class=Link>    </span></p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link></span> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link>  
+<table class=MsoTableGrid style="border-top:medium none;height:239px;border-right:medium none;width:682px;border-collapse:collapse;border-bottom:medium none;border-left:medium none" cellspacing=0 cellpadding=0 border=1>
+<tbody>
+<tr>
+<td style="border-top:windowtext 1pt solid;border-right:windowtext 1pt solid;width:7.15in;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=686 colspan=2>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"> </p>
+<dt><font size=3>Non-Rolling Stock Multiple Assets</font></dt>
+<dt><font size=3>Surplus Usable Property</font></dt>
+<dt><font size=3>Liquidation Sale</font></dt>
+<dt><font size=3>Contract Number: 14-0091-0002</font></dt>
+<dt><font size=3>(CV4) Data File</font></dt>
+<dt><font size=3></font> </dt></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<div align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Non-Rolling%20Stock%20Contract/CV4LMasterIFB91.docx">
+<div align=left>Invitation for Bid (IFB) Number 14-0091</div></a>140 KB </div></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"> Finalized March 18, 2014 </p></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<div align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Non-Rolling%20Stock%20Contract/14-0091OfficialBidAbstract.xls">
+<div align=left>Official Abstract</div></a>31 KB  </div></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal">April 1, 2014 </p></td></tr>
+<tr>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:windowtext 1pt solid;padding-right:5.4pt" valign=top width=343>
+<dl>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;line-height:normal" align=left><a title="" href="/EFOIA-Privacy/Documents/CV4%20Non-Rolling%20Stock%20Contract/LSIAward14-0091.pdf">
+<div class=MsoNormal style="margin-bottom:0pt;line-height:normal" align=left>Contract Award</div></a>1,071 KB </div></dt></dl></td>
+<td style="border-top:medium none;border-right:windowtext 1pt solid;width:257.4pt;border-bottom:windowtext 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=343>
+<p class=MsoNormal style="margin-bottom:0pt;line-height:normal"> July 25, 2014 </p></td></tr></tbody></table>  </span></p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link></span> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link> </p>
+<div align=center>
+<table class=MsoTableLightListAccent1 style="border-top:medium none;border-right:medium none;border-collapse:collapse;border-bottom:medium none;border-left:medium none" cellspacing=0 cellpadding=0 border=1>
+<tbody>
+<tr>
+<td style="border-top:#4f81bd 1pt solid;border-right:#4f81bd 1pt solid;width:6.65in;background:#4f81bd;border-bottom:medium none;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:#4f81bd 1pt solid;padding-right:5.4pt" valign=top width=638 colspan=2><span style="color:white">
+<dl>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><strong> </strong></div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><span style="color:white"><font size=4><a id=1033 title="">
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><span style="color:white"><font size=4><strong>LESO 1033 Program</strong></font></span></div></a></font></span></div></dt>
+<dt>
+<div align=center><span>
+<div align=center><span></span> </div><font size=4>DLA’s Law Enforcement Support Office transfers excess Department of Defense property to federal, state, and local law enforcement agencies within the United States and its Territories</font></span></span></div></dt></dl></td></tr>
+<tr>
+<td style="border-top:#4f81bd 1pt solid;border-right:medium none;width:239.4pt;border-bottom:#4f81bd 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:#4f81bd 1pt solid;padding-right:5.4pt" valign=top width=319>
+<dl>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><strong></strong></font> </div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><strong></strong></font> </div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><strong>LESO property transferred to participating agencies</strong></font></div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><strong><font size=3>(Current data to June 30, 2015)</font></strong></div></dt></dl></td>
+<td style="border-top:#4f81bd 1pt solid;border-right:#4f81bd 1pt solid;width:239.4pt;border-bottom:#4f81bd 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:medium none;padding-right:5.4pt" valign=top width=319>
+<dl>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3></font> </div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><font size=3><strong><a title="" href="/EFOIA-Privacy/Documents/LESO%20Data/Alaska_Louisiana.xls"><font size=3><font size=3><strong>Alaska-Louisiana</strong></font></font></a></strong></font><strong> </strong></font></div></dt></dl>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><font size=3><strong>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><font size=3><strong><a title="" href="/EFOIA-Privacy/Documents/LESO%20Data/Massachussetts_Wyoming_Territories.xls">
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><font size=3><font size=3><strong>Massachusetts-Wyoming and US Territories</strong></font></font></div></a></strong></font></font></strong></font></font> </div></div></td></tr>
+<tr>
+<td style="border-top:#4f81bd 1pt solid;border-right:#4f81bd 1pt solid;width:6.65in;border-bottom:#4f81bd 1pt solid;padding-bottom:0in;padding-top:0in;padding-left:5.4pt;border-left:#4f81bd 1pt solid;padding-right:5.4pt" valign=top width=638 colspan=2>
+<dl>
+<dt>
+<div class=MsoPlainText><b><b></b></b></div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><b><font size=3></font></b> </div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><b><font size=3>*Active Inventory*</font></b></div></dt>
+<dt>
+<div class=MsoNormal style="margin-bottom:0pt;text-align:center;line-height:normal" align=center><b><font size=3>Updated Quarterly</font></b></div></dt>
+<dt>  
+<div></div></dt>
+<dt>
+<div class=MsoPlainText align=center><b><b>Some of the items DLA transfers under the LESO program were purchased, in some </b><b>cases, up to 50 years ago.<span>  </span>Therefore, the acquisition cost is the value of </b><b>the item when it was last purchased.</b></b><b></div></dt></dl></b></td></tr></tbody></table></div></span>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center></p></span>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link></span> </p>
+<p class=ContentVerdana12ptBlack style="margin-bottom:0px;margin-top:0px" align=center><span class=Link><a href="/EFOIA-Privacy/Pages/ereadingroom.aspx#content">Back to Top</a></span> </p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<hr>
+
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p style="margin-bottom:0px;margin-top:0px" align=left><span class=SubtitleVerdana12ptBlackBold>Conventional Reading Rooms<br></span>Public reading rooms are located at the HQ DLA facility and at the DLA Field Activities. Contact the appropriate DLA FOIA/Privacy Contact to make an appointment to gain access to their FOIA reading room.</p>
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<hr>
+
+<p style="margin-bottom:0px;margin-top:0px"> </p>
+<p class=ContentVerdana12ptBlack style="margin-top:0px" align=left>PDF documents found on this page can be viewed using a <a class=Link href="http://www.adobe.com/products/acrobat/readstep.html">PDF Reader</a>.<br>XLSX files found on this page can be viewed using an <a href="http://office.microsoft.com/en-us/downloads/redir/DC010254536.aspx?CTT=5&amp;origin=HA001044981">Excel</a> viewer. <br>DOCX files found on this page can be viewed using a <a href="http://office.microsoft.com/en-us/downloads/redir/CD010225858.aspx?CTT=5&amp;origin=HA001044981">Word</a> viewer.<a class=Link href="http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&amp;id=4"><br></a>ZIP files can be downloaded and extracted with <a href="http://www.pkware.com/" target="_blank">PKZIP</a> or <a href="http://www.winzip.com/" target="_blank">WinZip</a>.</p><span class=ContentItalicVerdana12ptBlack>Page updated 07.14.15 (jrm)</span> </div>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<div style="clear:both">&nbsp;</div>
+	
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+
+			<table style="width: 996px" cellspacing="0" cellpadding="0" align="center" id="page_footer">
+				<tr align="center">	
+					<td>
+						<div class="footer" style="width: 100%; padding:0; background-color:#336797;">
+							<span class="footer">
+								<a href="http://www.usa.gov">
+									USA.GOV
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="http://www.dla.mil/EEO/Pages/NoFear.aspx">
+									No Fear
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="http://www.dla.mil/Pages/privacysecurity.aspx">
+									Privacy/Security Statement
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_Section508Link" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">
+									Accessibility/Section 508
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_PlainWriting Link" href="http://www.dla.mil/plainwriting/Pages/default.aspx">	
+									Plain Writing
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a id="Footer1_SiteIndexLink" href="/pages/site_index.aspx">
+									Site Index
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="mailto:DLADispositionServicesWebcontent@dla.mil?subject=DLA Disposition Services Web Site">
+									DLA&nbsp;Disp&nbsp;Svc&nbsp;Webmaster
+								</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="mailto:DLADISPO@DLA.MIL">
+									DLA&nbsp;Disp&nbsp;Svc&nbsp;Public Affairs
+								</a>
+							</span>
+						</div>
+					</td>
+				</tr>
+				<tr id="captionRow">
+					<td colspan="2" class="authoringRegion">
+						<script type="text/javascript">
+				   		 // Hide "Sign In" link (and more) on INTERNET site
+				    		if (window.location.hostname == 'www.dispositionservices.dla.mil')
+				        		document.getElementById('captionRow').style.display = 'none';
+						</script>
+
+	
+						<span class="siteActionMenu">
+							
+<!-- Begin Action Menu Markup -->
+<table height=100% class="ms-siteaction" cellpadding=0 cellspacing=0>
+	<tr>
+					   <td class="ms-siteactionsmenu" id="siteactiontd">
+					   
+					</td>
+	</tr>
+</table>
+<!-- End Action Menu Markup -->
+
+						</span>
+						
+						<div class="sharepointLogin">
+							<!--Authentication for Authors only-->
+							<table cellpadding="0" cellspacing="0" >
+								<tr>
+									<!-- MYSITE AND MYLINKS IS HIDDEN - JAW, 07/13/10: Unhid ------>
+									<td class="ms-globallinks">
+										
+									</td>
+									<td class="ms-globallinks">
+										
+<table><tr>
+<td class="ms-globallinks"></td>
+<td class="ms-globallinks"></td>
+</tr></table>
+
+									</td>
+									<!-- JAW, 07/13/10: end of unhide -->
+								
+									<td class="ms-globallinks">
+										
+<a id="ctl00_explitLogout_ExplicitLogin" href="http://www.dispositionservices.dla.mil/EFOIA-Privacy/_layouts/Authenticate.aspx?Source=%2FEFOIA%2DPrivacy%2FPages%2Fereadingroom%2Easpx" style="display:block;">Sign In</a>
+
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div class="console">
+							
+<!-- Console -->
+<span id="ctl00_ctl17_publishingContext1"></span>
+
+<!-- Console -->
+
+						</div>
+					</td>		
+				</tr>
+			</table>
+								
+			<div style="padding:0;">
+				
+					
+				
+				
+				
+				
+				
+					<div class="leftNavSpacer"/>
+				
+			</div>
+
+			<div style="width: 996px; padding:0; text-align:left" />
+
+			
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var zz1_QuickLaunchMenu_Data = new Object();
+zz1_QuickLaunchMenu_Data.disappearAfter = 1000;
+zz1_QuickLaunchMenu_Data.horizontalOffset = 0;
+zz1_QuickLaunchMenu_Data.verticalOffset = 0;
+zz1_QuickLaunchMenu_Data.hoverClass = 'dla_topNavFlyOutsHover';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer>
+<!--
+function S3031AEBA_Submit() {GoSearch(null,'ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords',null,true,true,'ctl00_PlaceHolderSearchArea_ctl00_SBScopesDDL','ctl00_PlaceHolderSearchArea_ctl00_ctl00',null,null,'\u002fSearchCenter\u002fPages\u002fResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fEFOIA-Privacy\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript" >
+// append an onload event handler
+var S3031AEBA__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+S3031AEBA__onload();        
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(S3031AEBA__onload);        
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl00_S3031AEBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function S3031AEBA_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S3031AEBA_Submit();
+}
+}
+// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var zz2_TopNavigationMenu_Data = new Object();
+zz2_TopNavigationMenu_Data.disappearAfter = 500;
+zz2_TopNavigationMenu_Data.horizontalOffset = 0;
+zz2_TopNavigationMenu_Data.verticalOffset = 0;
+zz2_TopNavigationMenu_Data.hoverClass = 'dla_topNavFlyOutsHover';
+//]]>
+</script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=mHKsOQ0iU3Q5jdm9OZNDdg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/search.js?rev=yqBjpvg%2Foi3KG5XVf%2FStmA%3D%3D"></script>
+</form>
+		<noscript>
+			Sorry, your browser does not support JavaScript!
+		</noscript>
+	</body>
+</html>
+
+
+
+<script type="text/javascript">
+	protected override bool AllowAnonymousAccess
+	{	
+		get{
+			return true;
+		}
+	}
+

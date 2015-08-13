@@ -3,18 +3,16 @@
 LESO 1033 Program data comes from [DLA Disposition Services eReading Room ](http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx#1033)
 
 
-You can see a mirror of that page as captured on __August 12, 2015__ and rendered on Github pages:
+You can see a mirror of that page as captured on __August 12, 2015__ and rendered on [Github Pages](http://datahoarder.github.io/leso_1033/stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
 
-[datahoarder.github.io/leso_1033/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html
-](http://datahoarder.github.io/leso_1033/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html)
-
-Or visit it in the [stash folder in the git repo](stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html)
+Or visit it in the [stash folder in the git repo](stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
 
 
 The __wget__ command that I used to do the mirror:
 
 ~~~sh
-wget --adjust-extension --span-hosts\
+wget --adjust-extension\
+      --no-directories \
       --no-host-directories \
       --recursive --level=1 \
       --execute robots=off \
