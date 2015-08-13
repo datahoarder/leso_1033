@@ -5,8 +5,8 @@ LESO 1033 Program data comes from [DLA Disposition Services eReading Room ](http
 
 You can see a mirror of that page as captured on __August 12, 2015__ and rendered on Github pages:
 
-[datahoarder.github.io/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html
-](http://datahoarder.github.io/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html)
+[datahoarder.github.io/leso_1033/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html
+](http://datahoarder.github.io/leso_1033/stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html)
 
 Or visit it in the [stash folder in the git repo](stash/mirror/EFOIA-Privacy/Pages/ereadingroom.aspx.html)
 
