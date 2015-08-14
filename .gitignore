@@ -1,5 +1,4 @@
 # Hide bulk files
-stash/compiled/
 # Ignore cache
 /.sass-cache
 /.cache
