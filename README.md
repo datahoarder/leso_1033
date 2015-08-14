@@ -21,8 +21,8 @@ http://www.fpdsng.com/downloads/psc_data_Oct012015.xls
 
 Since government sites can change, I've stashed mirrors for the relevant DoD and FPDS landing pages with links to copies of the data files, just in case you want to run my fetching [scripts and get the same results](scripts/fetch):
 
-- [DoD LESO data](stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
-- [FPDS](stash/mirror/fpds.gov-PSC/PSC,_NAICS_and_more.html)
+- [DoD LESO data](http://datahoarder.github.io/leso_1033/stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
+- [FPDS](http://datahoarder.github.io/leso_1033/stash/mirror/fpds.gov-PSC/PSC,_NAICS_and_more.html)
 
 
 The __wget__ command that I used to do the mirrors:
