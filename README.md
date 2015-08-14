@@ -8,11 +8,11 @@ In response to some very persistent [Freedom of Information Act requests by inve
 
 ## (╯°□°）╯ ┻THE━DATA┻ 
 
-If you just want the data, you can download it from here:
+If you just want the data as a plaintext, comma-delimited file with nearly __195,000 rows, you can download it from here:
 
 [raw/master/stash/compiled/leso-1033.csv](https://github.com/datahoarder/leso_1033/raw/master/stash/compiled/leso-1033.csv)
 
-This is a plaintext, comma-delimited file with nearly __195,000 rows.__
+__CAVEAT:__ I make __no guarantees__ for the accuracy of this dataset. I have not double-checked the numbers so it's up to you to confirm them. This repo contains the original files. And you can of course read and run the code and reproduce it yourself. At the very least, make sure you multiply the __Quantity__ column by the __Acquisition Value__ when calculating totals... 
 
 ### (ಠ_ಠ) What does the data look like?
 
