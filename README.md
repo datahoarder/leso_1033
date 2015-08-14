@@ -12,11 +12,12 @@ If you just want the data as a plaintext, comma-delimited file with nearly __195
 
 [raw/master/stash/compiled/leso-1033.csv](https://github.com/datahoarder/leso_1033/raw/master/stash/compiled/leso-1033.csv)
 
-__CAVEAT:__ I make __no guarantees__ for the accuracy of this dataset. I have not double-checked the numbers so it's up to you to confirm them. This repo contains the original files. And you can of course read and run the code and reproduce it yourself. 
+### Caveats (ಠ_ಠ) 
+I make __no guarantees__ for the accuracy of this dataset. I have not double-checked the numbers so it's up to you to confirm them. This repo contains the original files. And you can of course read and run the code and reproduce it yourself. 
 
-I've [listed a number of data journalism stories and projects](#data-journalism) that you can cross-check. At the very least, remember to multiply the __Quantity__ column by the __Acquisition Value__ when calculating totals... 
+I've [listed a number of data journalism stories and projects](#data-journalism) that you can cross-check...in fact, I highly recommend you read these stories to understand the origins of this dataset. Because like all datasets, is not all that it _seems_ to be. At the very least, remember to multiply the __Quantity__ column by the __Acquisition Value__ when calculating totals... 
 
-### (ಠ_ಠ) What does the data look like?
+### What does the data look like?
 
 A sample row with headers:
 
