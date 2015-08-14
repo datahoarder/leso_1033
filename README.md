@@ -8,7 +8,7 @@ In response to some very persistent [Freedom of Information Act requests by inve
 
 ## (╯°□°）╯ ┻THE━DATA┻ 
 
-If you just want the data as a plaintext, comma-delimited file with nearly __195,000 rows, you can download it from here:
+If you just want the data as a plaintext, comma-delimited file with nearly __195,000 rows__, you can download it from here:
 
 [raw/master/stash/compiled/leso-1033.csv](https://github.com/datahoarder/leso_1033/raw/master/stash/compiled/leso-1033.csv)
 
