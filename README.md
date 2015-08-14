@@ -29,7 +29,7 @@ A sample row with headers:
 | __Acquisition Value__  | 733000                                          |
 | __DEMIL Code__         | C                                               |
 | __DEMIL IC__           | 1                                               |
-| __Ship Date__          | 2/13/14                                         |
+| __Ship Date__          | 2014-02-13                                         |
 | __PSC NAME__           | COMBAT, ASSAULT, AND TACTICAL VEHICLES, WHEELED |
 
 
