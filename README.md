@@ -8,7 +8,24 @@ You can see a mirror of that page as captured on __August 12, 2015__ and rendere
 Or visit it in the [stash folder in the git repo](stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
 
 
-The __wget__ command that I used to do the mirror:
+## PSC Data
+
+Comes from the [Federal Procurement Data System](https://www.fpds.gov/wiki/index.php/PSC,_NAICS_and_more), which has a direct link to an Excel spreadsheet of PSC codes:
+
+http://www.fpdsng.com/downloads/psc_data_Oct012015.xls
+
+
+
+
+## Site mirrors
+
+Since government sites can change, I've stashed mirrors for the relevant DoD and FPDS landing pages with links to copies of the data files, just in case you want to run my fetching [scripts and get the same results](scripts/fetch):
+
+- [DoD LESO data](stash/mirror/dispositionservices.dla.mil-1033/ereadingroom.aspx.html)
+- [FPDS](stash/mirror/fpds.gov-PSC/PSC,_NAICS_and_more.html)
+
+
+The __wget__ command that I used to do the mirrors:
 
 ~~~sh
 wget --adjust-extension\
@@ -22,6 +39,21 @@ wget --adjust-extension\
       --user-agent="Mac OS X" \
       http://www.dispositionservices.dla.mil/EFOIA-Privacy/Pages/ereadingroom.aspx
 ~~~
+
+
+~~~sh
+wget --adjust-extension -HD www.fpdsng.com \
+      --no-directories \
+      --no-host-directories \
+      --recursive --level=1 \
+      --execute robots=off \
+      --convert-links --backup-converted \
+      --timestamping --page-requisites \
+      --directory-prefix=fpds.gov-PSC \
+      --user-agent="Mac OS X" \
+      https://www.fpds.gov/wiki/index.php/PSC,_NAICS_and_more
+~~~
+
 
 
 Related stories:
