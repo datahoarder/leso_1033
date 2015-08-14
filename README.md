@@ -14,6 +14,24 @@ If you just want the data, you can download it from here:
 
 This is a plaintext, comma-delimited file with nearly __195,000 rows.__
 
+### (ಠ_ಠ) What does the data look like?
+
+A sample row with headers:
+
+|         Header         |                   Sample value                  |
+|------------------------|-------------------------------------------------|
+| __State__              | TN                                              |
+| __Station Name (LEA)__ | SMITH COUNTY SHERIFF DEPT                       |
+| __NSN__                | 2355-01-590-1660                                |
+| __Item Name__          | MINE RESISTANT VEHICLE                          |
+| __Quantity__           | 1                                               |
+| __UI__                 | Each                                            |
+| __Acquisition Value__  | 733000                                          |
+| __DEMIL Code__         | C                                               |
+| __DEMIL IC__           | 1                                               |
+| __Ship Date__          | 2/13/14                                         |
+| __PSC NAME__           | COMBAT, ASSAULT, AND TACTICAL VEHICLES, WHEELED |
+
 
 # Background
 
