@@ -12,7 +12,9 @@ If you just want the data as a plaintext, comma-delimited file with nearly __195
 
 [raw/master/stash/compiled/leso-1033.csv](https://github.com/datahoarder/leso_1033/raw/master/stash/compiled/leso-1033.csv)
 
-__CAVEAT:__ I make __no guarantees__ for the accuracy of this dataset. I have not double-checked the numbers so it's up to you to confirm them. This repo contains the original files. And you can of course read and run the code and reproduce it yourself. At the very least, make sure you multiply the __Quantity__ column by the __Acquisition Value__ when calculating totals... 
+__CAVEAT:__ I make __no guarantees__ for the accuracy of this dataset. I have not double-checked the numbers so it's up to you to confirm them. This repo contains the original files. And you can of course read and run the code and reproduce it yourself. 
+
+I've [listed a number of data journalism stories and projects](#data-journalism) that you can cross-check. At the very least, remember to multiply the __Quantity__ column by the __Acquisition Value__ when calculating totals... 
 
 ### (ಠ_ಠ) What does the data look like?
 
@@ -42,14 +44,12 @@ The program has, of late, come under scrutiny because of photos of heavily-equip
 
 ## Data Journalism
 
-
-
-
 Here are some relevant news stories and projects:
 
 - [MuckRock • How we got the Pentagon to reveal what gear they gave cops](https://www.muckrock.com/news/archives/2014/dec/09/how-we-got-pentagon-reveal-what-gear-they-gave-cop/) 
 - [The Pentagon Finally Details its Weapons-for-Cops Giveaway](https://www.themarshallproject.org/2014/12/03/the-pentagon-finally-details-its-weapons-for-cops-giveaway)
 - [Muckrock FOIA: Program 1033 transfers nationwide 2000 to 2014 ](https://www.muckrock.com/foi/united-states-of-america-10/1033-transfers-nationwide-2000-to-2014-12969/)
+- [Central Florida police acquire military surplus gear (clickorlando.com)](http://www.clickorlando.com/news/central-florida-police-acquire-military-surplus-gear/27414316) - Just so that you're aware, not all helicopters are equal. You should read this excellent local story to see how this dataset has a lot of ambiguous details.
 - [Mapping the Spread of the Military’s Surplus Gear - The New York Times](http://www.nytimes.com/interactive/2014/08/15/us/surplus-military-equipment-map.html?_r=1) 
 - [MRAPs And Bayonets: What We Know About The Pentagon's 1033 Program : NPR (npr.org)](http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program) 
 - [A reusable data processing workflow - a guide by NPR Visuals on how it processed the 1033 data](http://blog.apps.npr.org/2014/09/02/reusable-data-processing.html) 
