@@ -1,7 +1,8 @@
 """
-
 run:
     $ python3 -m scripts.compile.compile_data
+
+Produces CSV in COMPILED_DATA_PATH
 """
 from scripts.settings import setup_space
 from scripts.settings import FETCHED_LESO_DIR, FETCHED_PSC_PATH, COMPILED_DATA_PATH
@@ -11,9 +12,6 @@ from datetime import datetime
 from collections import OrderedDict
 from glob import glob
 import csv
-
-
-
 
 
 def gather_psc_dict():
@@ -89,6 +87,7 @@ def run():
     print("Loading PSC data...")
     pscdict = gather_psc_dict()
     cwriter = csv.DictWriter(open(COMPILED_DATA_PATH, 'w'), fieldnames = headers)
+    cwriter.writeheader()
     for i, row in enumerate(iterate_leso_data()):
         # get first four digits of NSN:
         ncode = row['NSN'].strip().split('-')[0]
@@ -106,7 +105,6 @@ def run():
         else:
             cwriter.writerow(row)
     print("%s rows written to %s" % (i, COMPILED_DATA_PATH))
-
 
 
 if __name__ == '__main__':
