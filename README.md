@@ -162,13 +162,18 @@ wget --adjust-extension\
 
 
 ~~~sh
-wget --adjust-extension -HD www.fpdsng.com \
-      --no-directories \
+wget  --recursive \
+      --level=1 \
+      --span-hosts \
+      --domains=www.fpdsng.com \
       --no-host-directories \
-      --recursive --level=1 \
+      --no-directories \
+      --adjust-extension \
+      --convert-links \
+      --backup-converted \
       --execute robots=off \
-      --convert-links --backup-converted \
-      --timestamping --page-requisites \
+      --page-requisites \
+      --timestamping \
       --directory-prefix=fpds.gov-PSC \
       --user-agent="Mac OS X" \
       https://www.fpds.gov/wiki/index.php/PSC,_NAICS_and_more
